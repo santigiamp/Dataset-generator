@@ -1,0 +1,1701 @@
+ID_Movimiento,ID_Cuenta_Bancaria,Fecha,Tipo,Monto,Concepto
+1,1,2020-01-02,Ingreso,41064.39,Cobro venta #208
+2,2,2020-01-04,Egreso,1342.84,Mantenimiento
+3,1,2020-01-05,Ingreso,555.78,Cobro venta #146
+4,2,2020-01-07,Ingreso,415.12,Cobro venta #298
+5,2,2020-01-08,Ingreso,37242.48,Cobro venta #737
+6,4,2020-01-08,Ingreso,2716.8,Cobro venta #652
+7,1,2020-01-09,Egreso,14932.28,Mantenimiento
+8,2,2020-01-10,Ingreso,10205.36,Cobro venta #732
+9,4,2020-01-12,Ingreso,6420.16,Cobro venta #131
+10,3,2020-01-13,Egreso,57264.02,Pago compra #39
+11,5,2020-01-14,Ingreso,39323.48,Cobro venta #923
+12,5,2020-01-18,Ingreso,229165.92,Cobro venta #93
+13,3,2020-01-19,Ingreso,4119.48,Cobro venta #791
+14,5,2020-01-20,Ingreso,611.5,Cobro venta #714
+15,1,2020-01-22,Ingreso,6695.0,Cobro venta #287
+16,2,2020-01-22,Ingreso,1781.55,Cobro venta #734
+17,1,2020-01-23,Ingreso,7654.02,Cobro venta #833
+18,4,2020-01-24,Ingreso,244.7,Cobro venta #123
+19,1,2020-01-26,Egreso,7215.83,Pago compra #233
+20,1,2020-01-26,Egreso,28265.83,Pago compra #147
+21,2,2020-01-27,Egreso,21052.86,Pago compra #26
+22,5,2020-01-28,Egreso,37144.4,Pago compra #121
+23,5,2020-01-28,Ingreso,28160.73,Préstamo recibido
+24,2,2020-01-29,Ingreso,175409.0,Cobro venta #276
+25,4,2020-01-30,Ingreso,148726.27,Cobro venta #649
+26,2,2020-01-31,Ingreso,4068.26,Cobro venta #484
+27,5,2020-01-31,Egreso,18918.99,Otros gastos
+28,2,2020-02-01,Ingreso,261.2,Cobro venta #820
+29,3,2020-02-03,Ingreso,463.15,Cobro venta #242
+30,4,2020-02-04,Egreso,27443.46,Pago compra #102
+31,2,2020-02-04,Ingreso,2959.44,Cobro venta #86
+32,4,2020-02-05,Egreso,1887.12,Pago compra #357
+33,3,2020-02-06,Egreso,17858.95,Pago compra #266
+34,2,2020-02-06,Ingreso,27376.26,Cobro venta #177
+35,2,2020-02-10,Ingreso,103.78,Cobro venta #158
+36,4,2020-02-11,Ingreso,2728.98,Cobro venta #226
+37,1,2020-02-13,Ingreso,261.2,Cobro venta #151
+38,3,2020-02-13,Ingreso,3317.64,Cobro venta #349
+39,2,2020-02-14,Ingreso,96.45,Cobro venta #101
+40,1,2020-02-14,Ingreso,1339.0,Cobro venta #84
+41,4,2020-02-18,Ingreso,5926.86,Cobro venta #703
+42,5,2020-02-18,Egreso,6755.9,Pago compra #258
+43,3,2020-02-20,Ingreso,12789.54,Cobro venta #996
+44,4,2020-02-22,Ingreso,81162.93,Cobro venta #572
+45,5,2020-02-22,Egreso,34589.21,Pago compra #192
+46,5,2020-02-22,Ingreso,19838.68,Cobro venta #853
+47,4,2020-02-23,Ingreso,239.61,Cobro venta #143
+48,2,2020-02-24,Ingreso,1437.66,Cobro venta #289
+49,2,2020-02-24,Ingreso,4367.16,Cobro venta #459
+50,1,2020-02-25,Ingreso,48131.38,Préstamo recibido
+51,2,2020-02-25,Ingreso,16107.41,Cobro venta #803
+52,4,2020-02-27,Egreso,63209.34,Pago compra #203
+53,1,2020-02-27,Ingreso,3685.0,Cobro venta #335
+54,5,2020-02-27,Ingreso,712.5,Cobro venta #659
+55,2,2020-02-28,Ingreso,475.0,Cobro venta #310
+56,1,2020-02-28,Egreso,5776.24,Pago compra #436
+57,1,2020-02-29,Egreso,66411.96,Pago compra #423
+58,2,2020-03-01,Ingreso,115840.66,Cobro venta #77
+59,5,2020-03-01,Ingreso,370.52,Cobro venta #849
+60,2,2020-03-03,Ingreso,9106.44,Cobro venta #924
+61,3,2020-03-05,Egreso,10067.27,Pago compra #2
+62,3,2020-03-08,Egreso,19743.75,Pago compra #157
+63,3,2020-03-08,Ingreso,981.9,Cobro venta #868
+64,2,2020-03-09,Egreso,12119.21,Pago compra #313
+65,3,2020-03-10,Ingreso,16936.08,Cobro venta #880
+66,1,2020-03-11,Egreso,74168.79,Pago compra #303
+67,2,2020-03-12,Ingreso,3056.4,Cobro venta #619
+68,5,2020-03-14,Egreso,8445.79,Pago compra #231
+69,1,2020-03-14,Ingreso,6070.46,Cobro venta #46
+70,4,2020-03-15,Egreso,10217.56,Pago compra #153
+71,5,2020-03-18,Ingreso,5236.68,Cobro venta #564
+72,1,2020-03-18,Ingreso,4571.0,Cobro venta #906
+73,5,2020-03-19,Ingreso,16273.04,Cobro venta #952
+74,1,2020-03-19,Egreso,5215.88,Pago compra #415
+75,2,2020-03-20,Ingreso,43129.32,Cobro venta #200
+76,2,2020-03-23,Egreso,24187.97,Pago compra #468
+77,2,2020-03-24,Egreso,13215.91,Pago compra #336
+78,5,2020-03-25,Ingreso,1467.6,Cobro venta #887
+79,2,2020-03-25,Ingreso,578.7,Cobro venta #453
+80,2,2020-03-27,Egreso,30590.78,Pago compra #450
+81,3,2020-03-27,Egreso,15267.14,Pago nómina
+82,3,2020-03-28,Egreso,14971.24,Pago compra #74
+83,4,2020-03-28,Ingreso,1770.03,Cobro venta #394
+84,3,2020-03-31,Ingreso,14238.91,Cobro venta #165
+85,4,2020-03-31,Ingreso,2214.0,Cobro venta #299
+86,4,2020-04-04,Egreso,14821.39,Pago compra #398
+87,2,2020-04-05,Ingreso,64475.71,Cobro venta #639
+88,4,2020-04-06,Ingreso,32903.32,Cobro venta #65
+89,3,2020-04-07,Ingreso,1764.26,Cobro venta #393
+90,5,2020-04-08,Ingreso,3540.06,Cobro venta #356
+91,4,2020-04-10,Egreso,2441.98,Servicios
+92,3,2020-04-12,Egreso,5456.15,Pago compra #481
+93,4,2020-04-13,Egreso,10536.38,Alquiler
+94,5,2020-04-13,Ingreso,2315.75,Cobro venta #830
+95,2,2020-04-14,Egreso,29098.52,Seguros
+96,4,2020-04-15,Ingreso,479.22,Cobro venta #237
+97,5,2020-04-16,Egreso,5376.34,Pago compra #148
+98,2,2020-04-17,Ingreso,590.01,Cobro venta #763
+99,2,2020-04-18,Ingreso,8136.52,Cobro venta #839
+100,4,2020-04-21,Ingreso,1494.36,Cobro venta #627
+101,5,2020-04-24,Ingreso,8238.96,Cobro venta #385
+102,1,2020-04-25,Egreso,25088.79,Pago compra #473
+103,5,2020-04-25,Ingreso,132660.0,Cobro venta #710
+104,4,2020-04-25,Ingreso,17821.64,Cobro venta #959
+105,5,2020-04-26,Ingreso,765.6,Cobro venta #618
+106,4,2020-04-27,Ingreso,6378.35,Cobro venta #343
+107,1,2020-04-28,Ingreso,1029.87,Cobro venta #641
+108,1,2020-04-29,Egreso,24633.24,Pago compra #81
+109,3,2020-04-29,Egreso,16188.43,Pago compra #288
+110,2,2020-04-29,Ingreso,9125.42,Cobro venta #449
+111,5,2020-05-02,Ingreso,122.3,Cobro venta #709
+112,1,2020-05-02,Egreso,22284.57,Pago compra #408
+113,5,2020-05-03,Ingreso,64272.0,Cobro venta #663
+114,2,2020-05-03,Egreso,10487.34,Seguros
+115,5,2020-05-04,Ingreso,502773.48,Cobro venta #253
+116,2,2020-05-05,Ingreso,6563.88,Cobro venta #772
+117,3,2020-05-06,Ingreso,16790.4,Cobro venta #332
+118,2,2020-05-06,Egreso,17345.84,Pago compra #253
+119,3,2020-05-08,Ingreso,22151.35,Venta de activo
+120,2,2020-05-09,Ingreso,9125.42,Cobro venta #819
+121,5,2020-05-09,Ingreso,64.3,Cobro venta #371
+122,5,2020-05-10,Ingreso,20489.49,Cobro venta #514
+123,1,2020-05-11,Ingreso,2316.32,Cobro venta #221
+124,5,2020-05-12,Ingreso,4167.78,Cobro venta #873
+125,3,2020-05-14,Egreso,2784.13,Pago compra #137
+126,2,2020-05-14,Egreso,1443.84,Pago nómina
+127,4,2020-05-15,Ingreso,18648.03,Cobro venta #262
+128,4,2020-05-17,Ingreso,856.1,Cobro venta #351
+129,3,2020-05-17,Egreso,27450.05,Pago compra #132
+130,5,2020-05-17,Ingreso,872.78,Cobro venta #427
+131,4,2020-05-17,Egreso,57235.79,Pago compra #222
+132,4,2020-05-18,Ingreso,3108.64,Cobro venta #119
+133,5,2020-05-19,Egreso,18289.51,Pago compra #232
+134,4,2020-05-19,Ingreso,16715.7,Cobro venta #102
+135,1,2020-05-19,Ingreso,17680.88,Cobro venta #756
+136,3,2020-05-19,Ingreso,8878.32,Cobro venta #34
+137,4,2020-05-21,Ingreso,130.52,Cobro venta #113
+138,3,2020-05-21,Egreso,10582.59,Pago compra #479
+139,2,2020-05-21,Egreso,24169.8,Pago compra #451
+140,5,2020-05-21,Ingreso,404.2,Cobro venta #83
+141,5,2020-05-22,Egreso,35530.38,Pago compra #367
+142,1,2020-05-23,Egreso,13719.1,Pago compra #489
+143,5,2020-05-23,Egreso,9216.62,Pago compra #299
+144,2,2020-05-24,Egreso,19376.47,Pago compra #54
+145,4,2020-05-24,Egreso,6285.6,Pago compra #169
+146,4,2020-05-25,Ingreso,3089.61,Cobro venta #626
+147,3,2020-05-26,Ingreso,707.35,Cobro venta #211
+148,2,2020-05-29,Egreso,36179.61,Pago compra #195
+149,3,2020-05-29,Egreso,5117.99,Pago compra #107
+150,4,2020-05-31,Ingreso,4246.35,Cobro venta #834
+151,1,2020-06-02,Ingreso,5073.2,Cobro venta #396
+152,2,2020-06-03,Ingreso,4512.5,Cobro venta #280
+153,2,2020-06-03,Egreso,4148.68,Pago compra #50
+154,1,2020-06-03,Egreso,9077.24,Pago compra #345
+155,3,2020-06-04,Ingreso,8335.56,Cobro venta #643
+156,2,2020-06-04,Ingreso,15677.64,Cobro venta #532
+157,1,2020-06-04,Ingreso,546.99,Cobro venta #367
+158,5,2020-06-05,Ingreso,8581.76,Cobro venta #373
+159,2,2020-06-06,Ingreso,77.86,Cobro venta #312
+160,2,2020-06-08,Ingreso,155.72,Cobro venta #70
+161,1,2020-06-11,Egreso,56166.02,Pago compra #65
+162,5,2020-06-11,Egreso,21715.37,Pago compra #448
+163,2,2020-06-13,Egreso,71080.84,Pago compra #183
+164,2,2020-06-14,Ingreso,18621.24,Cobro venta #250
+165,2,2020-06-14,Egreso,28413.06,Pago compra #37
+166,3,2020-06-15,Ingreso,1677.27,Cobro venta #59
+167,4,2020-06-15,Egreso,2836.1,Pago compra #128
+168,4,2020-06-16,Ingreso,1458.64,Cobro venta #466
+169,1,2020-06-16,Egreso,45919.68,Pago compra #47
+170,3,2020-06-17,Egreso,13511.4,Pago compra #392
+171,3,2020-06-17,Egreso,18736.1,Pago compra #483
+172,1,2020-06-18,Ingreso,192.9,Cobro venta #528
+173,4,2020-06-19,Ingreso,43848.63,Cobro venta #616
+174,3,2020-06-19,Egreso,3385.42,Pago compra #259
+175,5,2020-06-19,Ingreso,118.75,Cobro venta #444
+176,3,2020-06-19,Ingreso,1389.26,Cobro venta #661
+177,2,2020-06-21,Ingreso,26483.16,Cobro venta #958
+178,4,2020-06-21,Egreso,6977.17,Pago compra #268
+179,3,2020-06-21,Egreso,49775.6,Pago compra #285
+180,4,2020-06-22,Ingreso,981.9,Cobro venta #202
+181,4,2020-06-22,Ingreso,391.56,Cobro venta #752
+182,1,2020-06-22,Egreso,40421.21,Pago compra #291
+183,4,2020-06-25,Egreso,27579.94,Pago compra #453
+184,5,2020-06-25,Ingreso,77.86,Cobro venta #379
+185,4,2020-06-27,Ingreso,326.3,Cobro venta #628
+186,3,2020-06-27,Egreso,43061.17,Pago compra #318
+187,5,2020-06-27,Egreso,8078.05,Pago compra #98
+188,3,2020-06-28,Ingreso,18576.62,Cobro venta #1
+189,1,2020-06-29,Ingreso,2551.34,Cobro venta #711
+190,2,2020-07-02,Ingreso,1867.77,Cobro venta #559
+191,2,2020-07-02,Ingreso,2059.74,Cobro venta #848
+192,3,2020-07-06,Ingreso,590.01,Cobro venta #800
+193,4,2020-07-07,Egreso,30521.68,Pago compra #430
+194,4,2020-07-07,Ingreso,13398.0,Cobro venta #684
+195,5,2020-07-08,Ingreso,50882.0,Cobro venta #775
+196,2,2020-07-10,Egreso,12283.9,Pago compra #262
+197,3,2020-07-11,Egreso,36925.39,Pago compra #438
+198,4,2020-07-11,Ingreso,1068.93,Cobro venta #522
+199,2,2020-07-12,Ingreso,48204.0,Cobro venta #565
+200,5,2020-07-12,Ingreso,760.98,Cobro venta #976
+201,2,2020-07-12,Ingreso,64.3,Cobro venta #210
+202,4,2020-07-13,Ingreso,34488.29,Venta de activo
+203,1,2020-07-15,Ingreso,17821.64,Cobro venta #669
+204,2,2020-07-15,Egreso,6702.5,Pago compra #333
+205,2,2020-07-16,Ingreso,8492.7,Cobro venta #452
+206,4,2020-07-16,Ingreso,643.72,Cobro venta #970
+207,4,2020-07-17,Ingreso,15009.39,Cobro venta #193
+208,3,2020-07-17,Egreso,20879.53,Pago compra #10
+209,2,2020-07-19,Ingreso,9655.8,Cobro venta #878
+210,4,2020-07-20,Egreso,7700.49,Pago compra #205
+211,2,2020-07-21,Ingreso,905.13,Cobro venta #856
+212,1,2020-07-22,Egreso,13765.62,Pago compra #218
+213,3,2020-07-23,Ingreso,1101.15,Cobro venta #601
+214,2,2020-07-24,Egreso,18423.68,Pago compra #18
+215,4,2020-07-25,Ingreso,36614.34,Cobro venta #98
+216,3,2020-07-26,Ingreso,2551.34,Cobro venta #719
+217,3,2020-07-27,Ingreso,4720.08,Cobro venta #529
+218,1,2020-07-27,Egreso,15173.76,Pago compra #212
+219,4,2020-07-28,Egreso,22604.8,Mantenimiento
+220,2,2020-07-31,Egreso,8402.27,Impuestos
+221,2,2020-07-31,Ingreso,277.89,Cobro venta #960
+222,3,2020-08-02,Ingreso,14926.7,Cobro venta #468
+223,3,2020-08-02,Ingreso,101.05,Cobro venta #990
+224,4,2020-08-05,Ingreso,7886.14,Cobro venta #24
+225,2,2020-08-05,Ingreso,3210.08,Cobro venta #175
+226,1,2020-08-06,Ingreso,27931.86,Cobro venta #217
+227,1,2020-08-08,Egreso,81820.03,Pago compra #353
+228,4,2020-08-09,Ingreso,9106.44,Cobro venta #549
+229,1,2020-08-09,Ingreso,4093.47,Cobro venta #257
+230,2,2020-08-11,Ingreso,454.83,Cobro venta #826
+231,5,2020-08-11,Ingreso,3114.4,Cobro venta #695
+232,2,2020-08-13,Ingreso,41064.39,Cobro venta #686
+233,4,2020-08-15,Ingreso,3638.64,Cobro venta #823
+234,4,2020-08-16,Egreso,3366.67,Pago compra #17
+235,1,2020-08-17,Egreso,30991.15,Pago compra #366
+236,4,2020-08-18,Egreso,55359.15,Pago compra #393
+237,4,2020-08-19,Ingreso,5423.8,Cobro venta #138
+238,5,2020-08-20,Egreso,7736.98,Pago compra #302
+239,3,2020-08-21,Egreso,12913.09,Pago compra #434
+240,4,2020-08-21,Egreso,25481.71,Pago compra #493
+241,5,2020-08-21,Egreso,26516.15,Otros gastos
+242,2,2020-08-23,Egreso,16447.25,Pago compra #23
+243,5,2020-08-25,Ingreso,15569.95,Cobro venta #240
+244,5,2020-08-27,Egreso,8060.63,Alquiler
+245,5,2020-08-28,Ingreso,38402.32,Cobro venta #357
+246,4,2020-08-29,Ingreso,1437.66,Cobro venta #418
+247,1,2020-08-30,Ingreso,5529.4,Cobro venta #378
+248,2,2020-08-30,Ingreso,546.99,Cobro venta #337
+249,4,2020-09-02,Ingreso,20144.27,Cobro venta #561
+250,5,2020-09-03,Ingreso,2494.17,Cobro venta #376
+251,4,2020-09-05,Ingreso,14263.2,Cobro venta #688
+252,2,2020-09-05,Egreso,29952.36,Pago compra #280
+253,4,2020-09-06,Ingreso,712.5,Cobro venta #897
+254,4,2020-09-06,Ingreso,1175.4,Cobro venta #513
+255,5,2020-09-09,Ingreso,2083.89,Cobro venta #941
+256,5,2020-09-09,Egreso,20037.58,Pago compra #269
+257,5,2020-09-10,Ingreso,16513.3,Préstamo recibido
+258,5,2020-09-10,Ingreso,4959.67,Cobro venta #313
+259,3,2020-09-12,Ingreso,195745.89,Cobro venta #488
+260,4,2020-09-12,Egreso,9697.64,Pago compra #349
+261,5,2020-09-13,Egreso,37241.2,Pago compra #206
+262,5,2020-09-13,Egreso,26655.16,Seguros
+263,2,2020-09-13,Egreso,28327.65,Servicios
+264,3,2020-09-14,Egreso,7722.1,Pago compra #314
+265,5,2020-09-15,Egreso,2422.26,Pago compra #361
+266,5,2020-09-16,Egreso,14571.26,Impuestos
+267,3,2020-09-18,Ingreso,1425.24,Cobro venta #470
+268,3,2020-09-19,Ingreso,1037.65,Cobro venta #614
+269,4,2020-09-20,Ingreso,26789.07,Cobro venta #595
+270,5,2020-09-20,Ingreso,239.61,Cobro venta #886
+271,2,2020-09-23,Ingreso,3317.64,Cobro venta #319
+272,1,2020-09-24,Egreso,10744.99,Alquiler
+273,4,2020-09-27,Ingreso,25287.04,Devolución impuestos
+274,2,2020-09-28,Ingreso,122.3,Cobro venta #368
+275,1,2020-09-28,Ingreso,1014.64,Cobro venta #243
+276,2,2020-09-29,Egreso,3402.41,Pago compra #334
+277,1,2020-10-02,Egreso,26996.41,Pago compra #270
+278,5,2020-10-02,Ingreso,3197.74,Cobro venta #727
+279,5,2020-10-03,Ingreso,17761.6,Cobro venta #972
+280,5,2020-10-03,Egreso,14450.01,Pago compra #216
+281,3,2020-10-03,Ingreso,86511.18,Cobro venta #440
+282,1,2020-10-04,Ingreso,339.6,Cobro venta #423
+283,1,2020-10-04,Ingreso,22413.24,Cobro venta #841
+284,2,2020-10-05,Ingreso,22228.16,Cobro venta #540
+285,1,2020-10-06,Ingreso,1819.32,Cobro venta #759
+286,4,2020-10-07,Ingreso,47292.75,Venta de activo
+287,3,2020-10-09,Ingreso,3242.05,Cobro venta #740
+288,1,2020-10-10,Ingreso,367.05,Cobro venta #525
+289,4,2020-10-13,Egreso,13961.35,Pago nómina
+290,5,2020-10-13,Ingreso,1677.27,Cobro venta #742
+291,1,2020-10-14,Egreso,19897.72,Pago compra #163
+292,2,2020-10-17,Egreso,32350.27,Pago compra #154
+293,5,2020-10-18,Ingreso,1479.72,Cobro venta #421
+294,3,2020-10-18,Egreso,20504.61,Impuestos
+295,2,2020-10-21,Ingreso,11055.0,Cobro venta #234
+296,3,2020-10-21,Ingreso,729.32,Cobro venta #919
+297,5,2020-10-22,Egreso,14819.99,Pago compra #396
+298,1,2020-10-23,Ingreso,7955.78,Cobro venta #543
+299,4,2020-10-27,Egreso,8225.42,Pago compra #380
+300,3,2020-10-27,Egreso,63940.05,Pago compra #56
+301,4,2020-10-27,Ingreso,244.6,Cobro venta #526
+302,1,2020-10-28,Ingreso,10712.0,Cobro venta #855
+303,5,2020-10-28,Ingreso,29489.82,Venta de activo
+304,5,2020-10-29,Egreso,9307.16,Mantenimiento
+305,1,2020-10-31,Ingreso,41509.0,Cobro venta #620
+306,3,2020-10-31,Ingreso,41677.8,Cobro venta #282
+307,5,2020-10-31,Egreso,62700.54,Pago compra #467
+308,5,2020-11-03,Ingreso,182.33,Cobro venta #863
+309,1,2020-11-04,Ingreso,257.2,Cobro venta #13
+310,5,2020-11-04,Ingreso,1479.72,Cobro venta #954
+311,4,2020-11-06,Ingreso,12140.92,Cobro venta #381
+312,2,2020-11-07,Ingreso,14879.01,Cobro venta #244
+313,3,2020-11-07,Egreso,42117.58,Pago compra #172
+314,5,2020-11-07,Ingreso,42665.57,Inversión
+315,5,2020-11-08,Egreso,35377.0,Pago compra #143
+316,5,2020-11-09,Egreso,24764.8,Pago compra #378
+317,2,2020-11-10,Ingreso,1355.95,Cobro venta #907
+318,3,2020-11-11,Ingreso,32329.93,Préstamo recibido
+319,2,2020-11-12,Ingreso,1358.4,Cobro venta #186
+320,5,2020-11-13,Ingreso,215646.6,Cobro venta #223
+321,5,2020-11-14,Ingreso,244.7,Cobro venta #5
+322,5,2020-11-16,Ingreso,95810.0,Cobro venta #432
+323,1,2020-11-17,Ingreso,202.1,Cobro venta #124
+324,3,2020-11-17,Ingreso,1175.4,Cobro venta #827
+325,1,2020-11-19,Egreso,16928.76,Pago compra #251
+326,2,2020-11-20,Egreso,19426.6,Otros gastos
+327,1,2020-11-20,Egreso,21115.59,Seguros
+328,2,2020-11-26,Egreso,19415.56,Pago compra #289
+329,5,2020-11-27,Ingreso,4959.67,Cobro venta #901
+330,4,2020-11-27,Egreso,28825.86,Pago compra #348
+331,5,2020-11-28,Ingreso,16790.76,Venta de activo
+332,1,2020-11-28,Ingreso,6112.8,Cobro venta #2
+333,1,2020-11-28,Egreso,57873.57,Pago compra #419
+334,3,2020-11-28,Egreso,3665.02,Pago compra #35
+335,1,2020-12-01,Ingreso,3056.4,Cobro venta #132
+336,1,2020-12-02,Ingreso,38194.32,Cobro venta #105
+337,3,2020-12-02,Ingreso,12204.78,Cobro venta #285
+338,4,2020-12-03,Ingreso,4282.3,Cobro venta #233
+339,5,2020-12-04,Ingreso,41550.9,Cobro venta #251
+340,3,2020-12-04,Ingreso,2778.52,Cobro venta #953
+341,5,2020-12-04,Ingreso,18307.17,Cobro venta #914
+342,1,2020-12-04,Ingreso,783.6,Cobro venta #807
+343,5,2020-12-05,Ingreso,20775.45,Cobro venta #6
+344,3,2020-12-05,Egreso,7028.97,Pago compra #279
+345,2,2020-12-05,Ingreso,18212.88,Cobro venta #442
+346,5,2020-12-06,Ingreso,168820.27,Cobro venta #947
+347,3,2020-12-08,Ingreso,14797.2,Cobro venta #106
+348,3,2020-12-08,Ingreso,606.3,Cobro venta #574
+349,1,2020-12-09,Egreso,1612.07,Impuestos
+350,1,2020-12-11,Ingreso,13632.73,Inversión
+351,1,2020-12-13,Ingreso,13659.66,Cobro venta #563
+352,3,2020-12-13,Egreso,15908.62,Pago compra #384
+353,4,2020-12-13,Ingreso,367.05,Cobro venta #912
+354,3,2020-12-15,Ingreso,1165.74,Cobro venta #43
+355,2,2020-12-16,Ingreso,2029.28,Cobro venta #49
+356,5,2020-12-16,Egreso,36724.9,Pago compra #207
+357,4,2020-12-16,Ingreso,31574.02,Otros ingresos
+358,1,2020-12-20,Ingreso,1952.87,Otros ingresos
+359,2,2020-12-21,Egreso,66556.41,Pago compra #456
+360,4,2020-12-23,Ingreso,160867.19,Cobro venta #460
+361,2,2020-12-24,Egreso,9695.25,Alquiler
+362,3,2020-12-27,Egreso,10314.0,Pago compra #376
+363,3,2020-12-27,Ingreso,32136.0,Cobro venta #927
+364,5,2020-12-27,Ingreso,29124.78,Préstamo recibido
+365,1,2020-12-28,Egreso,8092.62,Pago compra #400
+366,1,2020-12-28,Ingreso,21830.37,Cobro venta #624
+367,2,2020-12-29,Ingreso,4632.64,Cobro venta #999
+368,3,2020-12-29,Egreso,9300.96,Pago nómina
+369,2,2020-12-30,Egreso,29175.58,Pago nómina
+370,3,2020-12-31,Ingreso,966.3,Cobro venta #403
+371,4,2020-12-31,Egreso,14076.37,Pago compra #171
+372,5,2020-12-31,Ingreso,275.88,Cobro venta #613
+373,2,2021-01-01,Ingreso,15710.04,Cobro venta #324
+374,4,2021-01-02,Ingreso,160.75,Cobro venta #992
+375,5,2021-01-02,Ingreso,553.5,Cobro venta #835
+376,1,2021-01-03,Ingreso,208306.14,Cobro venta #899
+377,1,2021-01-03,Egreso,14672.73,Pago compra #323
+378,1,2021-01-03,Ingreso,92.63,Cobro venta #955
+379,4,2021-01-03,Ingreso,40098.69,Cobro venta #509
+380,4,2021-01-04,Ingreso,12629.2,Cobro venta #161
+381,3,2021-01-07,Egreso,13938.73,Pago compra #446
+382,2,2021-01-08,Egreso,28493.03,Alquiler
+383,5,2021-01-08,Ingreso,436.4,Cobro venta #397
+384,2,2021-01-09,Ingreso,3108.64,Cobro venta #979
+385,2,2021-01-10,Ingreso,41194.8,Cobro venta #402
+386,1,2021-01-10,Ingreso,1245.18,Cobro venta #491
+387,1,2021-01-10,Egreso,2859.0,Pago compra #335
+388,5,2021-01-10,Egreso,11297.69,Pago compra #274
+389,3,2021-01-11,Ingreso,783.6,Cobro venta #238
+390,4,2021-01-12,Egreso,5966.39,Pago compra #264
+391,4,2021-01-12,Egreso,18281.56,Pago compra #28
+392,2,2021-01-13,Egreso,12766.59,Pago compra #64
+393,5,2021-01-14,Egreso,20452.84,Pago compra #228
+394,4,2021-01-15,Ingreso,38871.15,Inversión
+395,4,2021-01-15,Egreso,3199.73,Pago compra #116
+396,1,2021-01-16,Egreso,13465.48,Impuestos
+397,1,2021-01-17,Egreso,8399.34,Pago nómina
+398,4,2021-01-17,Egreso,8566.82,Pago compra #327
+399,5,2021-01-18,Ingreso,29875.0,Inversión
+400,4,2021-01-18,Ingreso,244.6,Cobro venta #260
+401,1,2021-01-18,Egreso,2965.75,Pago compra #87
+402,5,2021-01-18,Ingreso,35819.52,Cobro venta #782
+403,3,2021-01-18,Ingreso,22913.52,Cobro venta #575
+404,3,2021-01-18,Ingreso,275.88,Cobro venta #851
+405,5,2021-01-18,Ingreso,6251.67,Cobro venta #940
+406,5,2021-01-19,Ingreso,37498.4,Otros ingresos
+407,3,2021-01-19,Ingreso,178216.4,Cobro venta #408
+408,4,2021-01-19,Ingreso,522.08,Cobro venta #308
+409,4,2021-01-20,Ingreso,33970.8,Cobro venta #194
+410,1,2021-01-22,Ingreso,32593.08,Venta de activo
+411,4,2021-01-24,Ingreso,1508.55,Cobro venta #406
+412,5,2021-01-24,Egreso,42902.45,Pago compra #27
+413,2,2021-01-25,Egreso,35013.88,Pago compra #365
+414,5,2021-01-25,Ingreso,15857.76,Préstamo recibido
+415,4,2021-01-26,Ingreso,4506.04,Cobro venta #505
+416,1,2021-01-27,Egreso,3823.87,Impuestos
+417,4,2021-01-28,Ingreso,1180.02,Cobro venta #386
+418,5,2021-01-28,Ingreso,17951.48,Cobro venta #490
+419,2,2021-01-29,Ingreso,13447.52,Devolución impuestos
+420,3,2021-01-30,Ingreso,2211.76,Cobro venta #42
+421,2,2021-01-31,Ingreso,885.6,Cobro venta #594
+422,3,2021-02-01,Ingreso,6946.3,Cobro venta #860
+423,2,2021-02-01,Ingreso,2037.6,Cobro venta #948
+424,4,2021-02-01,Ingreso,17821.64,Cobro venta #722
+425,2,2021-02-03,Ingreso,459.8,Cobro venta #375
+426,3,2021-02-03,Ingreso,622.88,Cobro venta #545
+427,2,2021-02-03,Ingreso,22110.0,Cobro venta #706
+428,3,2021-02-04,Egreso,22542.67,Pago compra #93
+429,1,2021-02-05,Ingreso,1101.15,Cobro venta #679
+430,2,2021-02-05,Ingreso,49540.75,Cobro venta #489
+431,5,2021-02-06,Egreso,31029.22,Pago compra #150
+432,2,2021-02-06,Ingreso,4067.85,Cobro venta #398
+433,4,2021-02-08,Ingreso,981.9,Cobro venta #637
+434,1,2021-02-09,Ingreso,653.0,Cobro venta #73
+435,5,2021-02-09,Egreso,13550.31,Pago compra #52
+436,1,2021-02-10,Ingreso,24798.35,Cobro venta #291
+437,3,2021-02-12,Ingreso,103.78,Cobro venta #199
+438,5,2021-02-13,Ingreso,31504.92,Préstamo recibido
+439,4,2021-02-13,Ingreso,707.35,Cobro venta #116
+440,1,2021-02-13,Ingreso,118.75,Cobro venta #277
+441,4,2021-02-13,Egreso,12506.08,Pago compra #138
+442,4,2021-02-14,Egreso,22802.13,Pago nómina
+443,4,2021-02-15,Ingreso,1992.48,Cobro venta #134
+444,2,2021-02-17,Ingreso,9106.44,Cobro venta #229
+445,5,2021-02-18,Egreso,10872.05,Pago compra #242
+446,5,2021-02-18,Egreso,56042.35,Pago compra #103
+447,4,2021-02-18,Ingreso,996.24,Cobro venta #824
+448,2,2021-02-18,Ingreso,1136.54,Cobro venta #844
+449,2,2021-02-18,Egreso,12038.88,Pago compra #14
+450,5,2021-02-20,Egreso,10853.78,Servicios
+451,4,2021-02-20,Ingreso,15936.27,Cobro venta #769
+452,4,2021-02-22,Ingreso,29340.41,Cobro venta #218
+453,1,2021-02-23,Egreso,24552.96,Otros gastos
+454,4,2021-02-23,Ingreso,1245.18,Cobro venta #347
+455,1,2021-02-25,Ingreso,55593.95,Cobro venta #316
+456,2,2021-02-25,Ingreso,289.35,Cobro venta #425
+457,1,2021-02-25,Ingreso,498.12,Cobro venta #395
+458,5,2021-02-26,Ingreso,63759.36,Cobro venta #671
+459,4,2021-02-28,Ingreso,3358.08,Cobro venta #888
+460,4,2021-03-02,Egreso,12941.99,Pago compra #245
+461,4,2021-03-03,Ingreso,5682.7,Cobro venta #596
+462,2,2021-03-03,Ingreso,2802.06,Cobro venta #125
+463,2,2021-03-08,Ingreso,2102.22,Cobro venta #682
+464,3,2021-03-09,Ingreso,380.49,Cobro venta #212
+465,2,2021-03-09,Ingreso,4363.9,Cobro venta #915
+466,2,2021-03-10,Ingreso,3354.54,Cobro venta #777
+467,4,2021-03-11,Egreso,11535.65,Pago compra #51
+468,2,2021-03-11,Ingreso,5211.72,Cobro venta #133
+469,1,2021-03-12,Ingreso,4774.29,Cobro venta #481
+470,2,2021-03-12,Ingreso,16273.04,Cobro venta #917
+471,5,2021-03-13,Ingreso,2767.5,Cobro venta #52
+472,3,2021-03-14,Ingreso,16273.04,Cobro venta #811
+473,3,2021-03-14,Ingreso,8508.73,Cobro venta #723
+474,5,2021-03-15,Egreso,44142.44,Pago compra #301
+475,3,2021-03-17,Egreso,9845.86,Pago compra #382
+476,4,2021-03-17,Egreso,39635.8,Pago compra #223
+477,2,2021-03-18,Ingreso,545.02,Cobro venta #448
+478,4,2021-03-18,Egreso,20682.91,Pago compra #442
+479,5,2021-03-19,Egreso,4081.76,Pago compra #25
+480,3,2021-03-20,Ingreso,11055.0,Cobro venta #552
+481,3,2021-03-20,Egreso,10955.51,Pago nómina
+482,2,2021-03-20,Egreso,6295.02,Otros gastos
+483,1,2021-03-22,Egreso,38665.82,Pago compra #263
+484,5,2021-03-22,Egreso,15577.66,Pago compra #420
+485,3,2021-03-23,Ingreso,1781.55,Cobro venta #792
+486,1,2021-03-24,Ingreso,24798.35,Cobro venta #62
+487,2,2021-03-24,Ingreso,5018.6,Cobro venta #741
+488,5,2021-03-25,Ingreso,726.46,Cobro venta #644
+489,1,2021-03-28,Ingreso,830.24,Cobro venta #662
+490,2,2021-03-28,Ingreso,20206.72,Cobro venta #494
+491,4,2021-03-29,Ingreso,29758.02,Cobro venta #531
+492,5,2021-03-31,Ingreso,35952.76,Préstamo recibido
+493,4,2021-03-31,Egreso,12700.2,Pago compra #124
+494,3,2021-03-31,Ingreso,2494.17,Cobro venta #67
+495,4,2021-03-31,Egreso,29159.73,Pago nómina
+496,3,2021-04-03,Ingreso,914.2,Cobro venta #374
+497,5,2021-04-04,Egreso,31254.36,Pago compra #499
+498,2,2021-04-04,Egreso,63610.05,Pago compra #77
+499,3,2021-04-05,Ingreso,45144.48,Devolución impuestos
+500,2,2021-04-05,Ingreso,18193.2,Cobro venta #333
+501,3,2021-04-05,Ingreso,479.22,Cobro venta #179
+502,4,2021-04-06,Egreso,20996.34,Pago compra #73
+503,4,2021-04-07,Ingreso,1136.54,Cobro venta #581
+504,3,2021-04-07,Ingreso,289.35,Cobro venta #534
+505,3,2021-04-09,Egreso,13972.65,Pago compra #166
+506,3,2021-04-10,Ingreso,638.0,Cobro venta #154
+507,1,2021-04-11,Ingreso,872.78,Cobro venta #404
+508,5,2021-04-14,Ingreso,28904.64,Devolución impuestos
+509,2,2021-04-16,Egreso,736.24,Impuestos
+510,4,2021-04-17,Ingreso,483.15,Cobro venta #546
+511,2,2021-04-19,Egreso,2499.82,Pago compra #127
+512,1,2021-04-20,Egreso,20255.68,Pago nómina
+513,5,2021-04-20,Ingreso,17102.88,Cobro venta #429
+514,1,2021-04-21,Egreso,21602.55,Pago compra #362
+515,3,2021-04-22,Ingreso,4562.71,Cobro venta #815
+516,1,2021-04-24,Ingreso,467.16,Cobro venta #20
+517,1,2021-04-25,Ingreso,77.86,Cobro venta #747
+518,3,2021-04-28,Egreso,18168.81,Pago compra #399
+519,1,2021-04-29,Egreso,33156.14,Pago compra #406
+520,5,2021-04-30,Egreso,44370.33,Pago compra #424
+521,5,2021-04-30,Ingreso,8238.96,Cobro venta #632
+522,5,2021-04-30,Ingreso,31938.97,Cobro venta #314
+523,3,2021-05-01,Egreso,6713.69,Pago compra #487
+524,2,2021-05-01,Ingreso,61017.75,Cobro venta #715
+525,3,2021-05-01,Egreso,26482.3,Pago compra #409
+526,3,2021-05-02,Ingreso,182.33,Cobro venta #506
+527,1,2021-05-02,Ingreso,456.82,Cobro venta #557
+528,5,2021-05-04,Egreso,17096.27,Pago compra #463
+529,2,2021-05-04,Ingreso,15321.33,Cobro venta #359
+530,3,2021-05-05,Ingreso,456.82,Cobro venta #501
+531,1,2021-05-06,Egreso,6715.85,Mantenimiento
+532,5,2021-05-06,Ingreso,203346.47,Cobro venta #110
+533,4,2021-05-08,Ingreso,2390.96,Cobro venta #172
+534,3,2021-05-08,Ingreso,39677.36,Cobro venta #587
+535,1,2021-05-10,Ingreso,735.68,Cobro venta #190
+536,4,2021-05-10,Ingreso,10559.85,Cobro venta #731
+537,2,2021-05-11,Ingreso,2728.98,Cobro venta #121
+538,3,2021-05-11,Egreso,9119.85,Pago compra #33
+539,4,2021-05-11,Ingreso,7222.68,Cobro venta #411
+540,4,2021-05-13,Egreso,2793.21,Pago compra #120
+541,5,2021-05-13,Ingreso,19097.16,Cobro venta #729
+542,2,2021-05-15,Egreso,3724.5,Pago compra #414
+543,4,2021-05-15,Egreso,24996.55,Pago compra #305
+544,5,2021-05-15,Ingreso,28890.72,Cobro venta #638
+545,5,2021-05-16,Ingreso,1136.54,Cobro venta #890
+546,4,2021-05-17,Ingreso,29511.4,Otros ingresos
+547,1,2021-05-17,Egreso,32577.73,Pago compra #141
+548,2,2021-05-17,Egreso,8409.58,Pago compra #53
+549,4,2021-05-19,Egreso,39737.15,Pago compra #246
+550,1,2021-05-19,Ingreso,5682.7,Cobro venta #290
+551,5,2021-05-19,Ingreso,2678.0,Cobro venta #994
+552,4,2021-05-20,Ingreso,15936.27,Cobro venta #562
+553,3,2021-05-21,Ingreso,13059.2,Cobro venta #431
+554,4,2021-05-22,Egreso,22351.29,Pago compra #196
+555,5,2021-05-23,Ingreso,623.88,Cobro venta #455
+556,1,2021-05-23,Egreso,15691.74,Pago compra #464
+557,5,2021-05-23,Ingreso,57405.15,Cobro venta #500
+558,5,2021-05-23,Ingreso,186197.31,Cobro venta #55
+559,4,2021-05-24,Egreso,7591.77,Pago compra #32
+560,3,2021-05-27,Ingreso,65174.34,Cobro venta #142
+561,2,2021-05-27,Ingreso,2137.86,Cobro venta #787
+562,3,2021-05-28,Ingreso,60272.52,Cobro venta #198
+563,1,2021-05-29,Egreso,5436.84,Pago compra #84
+564,1,2021-05-29,Egreso,26779.07,Pago compra #319
+565,5,2021-05-30,Egreso,25079.69,Alquiler
+566,5,2021-06-01,Egreso,5690.82,Pago compra #390
+567,1,2021-06-01,Egreso,21884.93,Servicios
+568,4,2021-06-02,Egreso,47147.7,Pago compra #449
+569,3,2021-06-03,Ingreso,555.78,Cobro venta #957
+570,2,2021-06-03,Ingreso,1745.56,Cobro venta #813
+571,4,2021-06-05,Ingreso,24798.35,Cobro venta #71
+572,1,2021-06-06,Egreso,853.76,Pago compra #433
+573,3,2021-06-09,Egreso,62668.81,Pago compra #422
+574,1,2021-06-11,Ingreso,11055.0,Cobro venta #938
+575,3,2021-06-11,Ingreso,20489.49,Cobro venta #689
+576,5,2021-06-13,Ingreso,6179.22,Cobro venta #173
+577,1,2021-06-14,Ingreso,643.72,Cobro venta #583
+578,4,2021-06-15,Ingreso,1364.49,Cobro venta #922
+579,1,2021-06-16,Ingreso,2495.52,Cobro venta #307
+580,2,2021-06-16,Ingreso,6214.67,Cobro venta #936
+581,5,2021-06-17,Ingreso,33165.0,Cobro venta #918
+582,5,2021-06-18,Egreso,64477.71,Pago compra #389
+583,2,2021-06-19,Egreso,27476.91,Pago compra #96
+584,4,2021-06-19,Ingreso,1745.56,Cobro venta #776
+585,4,2021-06-20,Ingreso,7577.52,Cobro venta #909
+586,2,2021-06-22,Egreso,7471.93,Seguros
+587,3,2021-06-22,Ingreso,22913.52,Cobro venta #441
+588,5,2021-06-23,Ingreso,356.25,Cobro venta #690
+589,3,2021-06-23,Egreso,37131.83,Pago compra #454
+590,2,2021-06-24,Egreso,48003.14,Pago compra #276
+591,4,2021-06-24,Egreso,28841.09,Alquiler
+592,5,2021-06-26,Ingreso,7222.68,Cobro venta #785
+593,5,2021-06-27,Ingreso,20983.32,Cobro venta #399
+594,1,2021-06-27,Egreso,43685.98,Pago compra #401
+595,2,2021-06-28,Ingreso,1275.67,Cobro venta #724
+596,4,2021-06-30,Egreso,3787.85,Pago compra #252
+597,3,2021-06-30,Ingreso,28474.03,Préstamo recibido
+598,4,2021-06-30,Ingreso,9919.34,Cobro venta #523
+599,3,2021-07-03,Ingreso,33176.4,Cobro venta #864
+600,2,2021-07-04,Ingreso,12735.24,Cobro venta #962
+601,4,2021-07-04,Ingreso,456.82,Cobro venta #29
+602,3,2021-07-05,Egreso,37560.45,Pago compra #485
+603,1,2021-07-05,Ingreso,887.81,Cobro venta #654
+604,3,2021-07-07,Ingreso,26550.45,Cobro venta #701
+605,1,2021-07-09,Egreso,2368.55,Pago compra #211
+606,2,2021-07-09,Ingreso,1698.0,Cobro venta #615
+607,2,2021-07-09,Ingreso,3445.2,Cobro venta #382
+608,4,2021-07-09,Egreso,5331.56,Pago compra #105
+609,3,2021-07-10,Egreso,65178.81,Pago compra #407
+610,4,2021-07-10,Egreso,9492.73,Seguros
+611,5,2021-07-11,Ingreso,3439.27,Venta de activo
+612,3,2021-07-12,Ingreso,31938.97,Cobro venta #573
+613,3,2021-07-12,Egreso,14958.2,Pago compra #352
+614,1,2021-07-13,Egreso,19353.51,Pago compra #310
+615,5,2021-07-13,Ingreso,10228.86,Cobro venta #79
+616,1,2021-07-14,Egreso,23480.66,Servicios
+617,4,2021-07-14,Egreso,33761.09,Pago compra #404
+618,5,2021-07-14,Ingreso,15961.2,Cobro venta #704
+619,4,2021-07-14,Ingreso,18211.38,Cobro venta #612
+620,2,2021-07-17,Egreso,2891.26,Mantenimiento
+621,2,2021-07-19,Egreso,17603.11,Servicios
+622,3,2021-07-21,Ingreso,11193.6,Cobro venta #305
+623,2,2021-07-21,Egreso,5893.57,Pago compra #325
+624,2,2021-07-22,Egreso,8838.69,Servicios
+625,5,2021-07-22,Ingreso,237.5,Cobro venta #606
+626,5,2021-07-23,Ingreso,1358.4,Cobro venta #997
+627,2,2021-07-24,Ingreso,95617.62,Cobro venta #821
+628,5,2021-07-26,Egreso,43441.36,Pago compra #470
+629,4,2021-07-26,Ingreso,454.83,Cobro venta #387
+630,5,2021-07-26,Ingreso,303.15,Cobro venta #457
+631,5,2021-07-27,Egreso,13502.41,Pago compra #210
+632,2,2021-07-27,Ingreso,3183.81,Cobro venta #904
+633,2,2021-07-30,Egreso,15741.13,Pago compra #337
+634,3,2021-08-02,Egreso,14899.08,Impuestos
+635,5,2021-08-04,Ingreso,966.3,Cobro venta #681
+636,1,2021-08-05,Ingreso,20236.8,Venta de activo
+637,3,2021-08-05,Ingreso,18211.38,Cobro venta #41
+638,1,2021-08-06,Egreso,5002.27,Pago compra #452
+639,3,2021-08-06,Egreso,3779.19,Pago compra #437
+640,1,2021-08-06,Egreso,1922.4,Pago compra #371
+641,3,2021-08-07,Ingreso,643342.11,Cobro venta #63
+642,3,2021-08-08,Ingreso,2611.84,Cobro venta #831
+643,5,2021-08-09,Ingreso,353803.56,Cobro venta #568
+644,5,2021-08-09,Ingreso,6102.39,Cobro venta #353
+645,5,2021-08-09,Ingreso,978.8,Cobro venta #998
+646,3,2021-08-10,Ingreso,587.34,Cobro venta #267
+647,3,2021-08-10,Ingreso,122.35,Cobro venta #392
+648,2,2021-08-11,Ingreso,41064.39,Cobro venta #272
+649,4,2021-08-14,Ingreso,261.04,Cobro venta #18
+650,5,2021-08-16,Ingreso,1900.0,Cobro venta #767
+651,3,2021-08-17,Ingreso,12051.0,Cobro venta #480
+652,3,2021-08-18,Egreso,52653.97,Pago compra #160
+653,2,2021-08-18,Egreso,5418.37,Pago compra #411
+654,4,2021-08-19,Egreso,50074.07,Pago compra #292
+655,2,2021-08-20,Ingreso,243023.83,Cobro venta #486
+656,2,2021-08-20,Ingreso,92.63,Cobro venta #7
+657,4,2021-08-21,Ingreso,25513.4,Cobro venta #274
+658,2,2021-08-21,Ingreso,17909.76,Cobro venta #209
+659,3,2021-08-22,Egreso,9640.49,Pago nómina
+660,1,2021-08-23,Ingreso,45679.26,Devolución impuestos
+661,3,2021-08-24,Egreso,17605.11,Seguros
+662,3,2021-08-24,Egreso,23610.9,Pago compra #429
+663,4,2021-08-24,Ingreso,1014.64,Cobro venta #539
+664,2,2021-08-25,Egreso,28846.34,Pago compra #277
+665,4,2021-08-26,Ingreso,1175.4,Cobro venta #454
+666,1,2021-08-26,Ingreso,603.42,Cobro venta #54
+667,1,2021-08-28,Ingreso,1559.7,Cobro venta #22
+668,3,2021-08-28,Ingreso,5051.68,Cobro venta #12
+669,5,2021-08-29,Egreso,76149.95,Pago compra #458
+670,4,2021-08-29,Egreso,15936.54,Pago compra #130
+671,4,2021-09-01,Egreso,25801.39,Pago compra #63
+672,3,2021-09-03,Egreso,16566.27,Pago compra #387
+673,1,2021-09-03,Egreso,3057.15,Pago compra #350
+674,2,2021-09-04,Egreso,12845.0,Pago compra #41
+675,3,2021-09-04,Ingreso,277.89,Cobro venta #538
+676,2,2021-09-05,Egreso,11604.27,Pago compra #201
+677,2,2021-09-07,Egreso,26573.84,Pago compra #255
+678,3,2021-09-10,Ingreso,1900.67,Venta de activo
+679,3,2021-09-11,Ingreso,44505.77,Devolución impuestos
+680,1,2021-09-13,Ingreso,5834.18,Cobro venta #323
+681,2,2021-09-14,Ingreso,244.6,Cobro venta #745
+682,2,2021-09-17,Ingreso,1364.49,Cobro venta #753
+683,4,2021-09-17,Ingreso,3983.09,Cobro venta #331
+684,5,2021-09-19,Ingreso,28890.72,Cobro venta #492
+685,2,2021-09-20,Ingreso,856.1,Cobro venta #986
+686,2,2021-09-21,Egreso,13926.16,Alquiler
+687,4,2021-09-22,Ingreso,1827.28,Cobro venta #771
+688,1,2021-09-22,Ingreso,103197.82,Cobro venta #286
+689,2,2021-09-25,Ingreso,1100.7,Cobro venta #245
+690,2,2021-09-25,Ingreso,1865.6,Cobro venta #95
+691,4,2021-09-25,Egreso,21005.51,Pago compra #331
+692,1,2021-09-26,Egreso,22685.21,Pago compra #432
+693,3,2021-09-26,Egreso,7065.8,Pago compra #225
+694,5,2021-09-28,Ingreso,59910.6,Cobro venta #716
+695,2,2021-09-29,Egreso,17058.17,Pago compra #90
+696,3,2021-09-30,Ingreso,622.88,Cobro venta #859
+697,2,2021-10-01,Ingreso,2898.9,Cobro venta #213
+698,4,2021-10-01,Egreso,2018.84,Pago compra #497
+699,2,2021-10-01,Egreso,5717.4,Pago compra #469
+700,2,2021-10-03,Ingreso,30495.76,Cobro venta #913
+701,5,2021-10-03,Ingreso,78915.98,Cobro venta #905
+702,2,2021-10-04,Egreso,42943.2,Pago compra #494
+703,5,2021-10-05,Ingreso,2183.58,Cobro venta #687
+704,4,2021-10-06,Egreso,25024.35,Pago compra #42
+705,5,2021-10-07,Egreso,12293.97,Pago compra #275
+706,4,2021-10-08,Ingreso,13275.24,Cobro venta #461
+707,5,2021-10-11,Ingreso,6070.46,Cobro venta #981
+708,4,2021-10-11,Egreso,15931.9,Pago compra #190
+709,3,2021-10-11,Ingreso,664.2,Cobro venta #892
+710,2,2021-10-12,Ingreso,479.22,Cobro venta #536
+711,5,2021-10-12,Ingreso,303.15,Cobro venta #894
+712,3,2021-10-14,Ingreso,41897.79,Cobro venta #325
+713,5,2021-10-15,Egreso,16921.05,Pago compra #193
+714,4,2021-10-16,Ingreso,467.16,Cobro venta #462
+715,3,2021-10-16,Ingreso,7222.68,Cobro venta #317
+716,1,2021-10-17,Ingreso,253.66,Cobro venta #407
+717,5,2021-10-17,Egreso,12962.78,Pago compra #230
+718,5,2021-10-18,Egreso,13421.99,Mantenimiento
+719,2,2021-10-18,Ingreso,483.15,Cobro venta #653
+720,1,2021-10-18,Egreso,18576.92,Pago compra #490
+721,1,2021-10-19,Egreso,16675.6,Pago compra #312
+722,1,2021-10-19,Egreso,30100.2,Pago compra #144
+723,3,2021-10-20,Ingreso,36815.47,Préstamo recibido
+724,3,2021-10-20,Egreso,7645.9,Pago compra #164
+725,1,2021-10-22,Ingreso,911.65,Cobro venta #965
+726,4,2021-10-22,Egreso,9458.03,Pago compra #31
+727,3,2021-10-23,Ingreso,4275.0,Cobro venta #629
+728,2,2021-10-23,Ingreso,14212.09,Inversión
+729,3,2021-10-23,Egreso,32285.26,Pago compra #136
+730,5,2021-10-23,Ingreso,64.3,Cobro venta #589
+731,5,2021-10-25,Egreso,47266.62,Pago compra #209
+732,4,2021-10-25,Ingreso,510.4,Cobro venta #554
+733,3,2021-10-25,Egreso,10373.09,Pago compra #309
+734,5,2021-10-26,Ingreso,5423.8,Cobro venta #713
+735,5,2021-10-27,Ingreso,17163.52,Cobro venta #315
+736,4,2021-10-27,Ingreso,2323.7,Cobro venta #809
+737,5,2021-10-27,Ingreso,14099.73,Cobro venta #560
+738,5,2021-10-28,Ingreso,356.25,Cobro venta #541
+739,5,2021-10-28,Ingreso,25264.8,Cobro venta #842
+740,5,2021-10-28,Ingreso,35643.28,Cobro venta #224
+741,2,2021-10-29,Ingreso,22286.67,Cobro venta #984
+742,5,2021-10-29,Egreso,20483.57,Pago compra #287
+743,5,2021-10-30,Ingreso,33420.03,Cobro venta #788
+744,1,2021-10-30,Ingreso,13805.44,Cobro venta #419
+745,4,2021-10-31,Ingreso,31938.97,Cobro venta #16
+746,2,2021-10-31,Ingreso,2415.75,Cobro venta #39
+747,2,2021-11-02,Egreso,13593.75,Seguros
+748,2,2021-11-03,Ingreso,603.42,Cobro venta #670
+749,5,2021-11-03,Egreso,19519.24,Alquiler
+750,1,2021-11-04,Ingreso,909.66,Cobro venta #81
+751,3,2021-11-04,Egreso,13482.99,Pago compra #477
+752,2,2021-11-09,Egreso,11394.79,Pago compra #224
+753,3,2021-11-10,Egreso,15491.25,Pago compra #197
+754,1,2021-11-10,Egreso,2762.79,Pago compra #99
+755,3,2021-11-11,Ingreso,707.35,Cobro venta #896
+756,1,2021-11-12,Ingreso,5310.09,Cobro venta #911
+757,5,2021-11-12,Ingreso,192.9,Cobro venta #780
+758,2,2021-11-13,Egreso,30736.42,Pago compra #178
+759,5,2021-11-15,Egreso,19157.93,Seguros
+760,5,2021-11-17,Ingreso,2807.46,Cobro venta #963
+761,5,2021-11-18,Ingreso,10210.48,Cobro venta #604
+762,4,2021-11-18,Egreso,11305.36,Pago compra #388
+763,2,2021-11-19,Egreso,24407.88,Impuestos
+764,2,2021-11-19,Egreso,44488.89,Pago compra #369
+765,1,2021-11-20,Ingreso,13878.66,Cobro venta #866
+766,5,2021-11-20,Ingreso,45807.64,Otros ingresos
+767,3,2021-11-21,Ingreso,7247.25,Cobro venta #862
+768,2,2021-11-21,Ingreso,664.2,Cobro venta #508
+769,2,2021-11-21,Ingreso,18648.03,Cobro venta #222
+770,2,2021-11-21,Egreso,9817.72,Pago compra #364
+771,4,2021-11-24,Ingreso,1559.7,Cobro venta #646
+772,1,2021-11-25,Ingreso,7209.09,Cobro venta #685
+773,5,2021-11-26,Ingreso,4792.2,Cobro venta #971
+774,5,2021-11-27,Ingreso,3800.0,Cobro venta #424
+775,2,2021-11-28,Ingreso,643.72,Cobro venta #471
+776,2,2021-11-29,Egreso,56667.43,Pago compra #191
+777,1,2021-11-29,Egreso,13670.88,Pago compra #36
+778,1,2021-11-30,Ingreso,33985.71,Cobro venta #145
+779,4,2021-11-30,Ingreso,1494.36,Cobro venta #168
+780,4,2021-12-01,Ingreso,16708.94,Cobro venta #256
+781,1,2021-12-01,Ingreso,8186.94,Cobro venta #516
+782,3,2021-12-01,Ingreso,1494.36,Cobro venta #805
+783,2,2021-12-02,Ingreso,4423.52,Cobro venta #760
+784,5,2021-12-03,Ingreso,1175.4,Cobro venta #163
+785,2,2021-12-03,Ingreso,3735.54,Cobro venta #365
+786,2,2021-12-03,Egreso,16182.69,Pago compra #91
+787,2,2021-12-04,Ingreso,19838.68,Cobro venta #435
+788,5,2021-12-05,Ingreso,332.1,Cobro venta #648
+789,2,2021-12-07,Ingreso,253.66,Cobro venta #157
+790,5,2021-12-08,Ingreso,24281.84,Cobro venta #174
+791,5,2021-12-08,Egreso,8146.06,Pago compra #295
+792,2,2021-12-10,Egreso,3835.06,Servicios
+793,5,2021-12-11,Egreso,12787.99,Pago compra #354
+794,2,2021-12-11,Egreso,5326.58,Pago compra #342
+795,1,2021-12-11,Egreso,23743.96,Impuestos
+796,2,2021-12-11,Ingreso,214144.26,Cobro venta #779
+797,1,2021-12-14,Egreso,12575.81,Pago compra #254
+798,1,2021-12-17,Egreso,14100.77,Pago compra #386
+799,4,2021-12-18,Egreso,25000.14,Pago compra #298
+800,1,2021-12-18,Egreso,59411.57,Pago compra #297
+801,5,2021-12-19,Egreso,19619.01,Mantenimiento
+802,1,2021-12-20,Egreso,8993.6,Pago compra #441
+803,5,2021-12-20,Ingreso,735.68,Cobro venta #774
+804,1,2021-12-20,Egreso,62166.67,Pago compra #402
+805,2,2021-12-20,Egreso,40052.39,Pago compra #198
+806,2,2021-12-20,Egreso,8594.42,Pago compra #215
+807,5,2021-12-20,Egreso,49978.09,Pago compra #372
+808,3,2021-12-21,Egreso,16059.97,Seguros
+809,3,2021-12-21,Ingreso,8910.82,Cobro venta #207
+810,1,2021-12-22,Ingreso,24281.01,Cobro venta #293
+811,2,2021-12-22,Ingreso,2238.72,Cobro venta #645
+812,4,2021-12-23,Ingreso,15176.15,Cobro venta #309
+813,1,2021-12-24,Ingreso,5051.68,Cobro venta #108
+814,3,2021-12-25,Ingreso,391.8,Cobro venta #10
+815,4,2021-12-26,Ingreso,4151.2,Cobro venta #736
+816,3,2021-12-26,Ingreso,1029.87,Cobro venta #99
+817,2,2021-12-26,Ingreso,5700.96,Cobro venta #875
+818,1,2021-12-26,Ingreso,41509.0,Cobro venta #519
+819,3,2021-12-26,Ingreso,4774.29,Cobro venta #390
+820,2,2021-12-28,Ingreso,16910.25,Cobro venta #306
+821,3,2021-12-30,Ingreso,4130.07,Cobro venta #279
+822,4,2021-12-31,Egreso,13412.09,Pago compra #426
+823,3,2022-01-03,Egreso,16293.44,Pago nómina
+824,5,2022-01-04,Egreso,13270.63,Pago compra #194
+825,5,2022-01-04,Egreso,6064.65,Mantenimiento
+826,5,2022-01-04,Egreso,8475.28,Alquiler
+827,5,2022-01-04,Ingreso,3665.1,Cobro venta #665
+828,3,2022-01-07,Egreso,29434.83,Pago compra #320
+829,2,2022-01-07,Egreso,25714.85,Seguros
+830,3,2022-01-08,Ingreso,77.86,Cobro venta #342
+831,3,2022-01-09,Egreso,22318.84,Alquiler
+832,4,2022-01-10,Ingreso,12051.0,Cobro venta #87
+833,5,2022-01-10,Egreso,11638.03,Pago compra #82
+834,5,2022-01-11,Ingreso,2612.0,Cobro venta #765
+835,1,2022-01-12,Egreso,14695.05,Pago nómina
+836,1,2022-01-14,Egreso,6392.05,Pago compra #271
+837,5,2022-01-15,Ingreso,19680.27,Inversión
+838,2,2022-01-15,Ingreso,18211.38,Cobro venta #708
+839,2,2022-01-19,Ingreso,5102.68,Cobro venta #383
+840,3,2022-01-21,Ingreso,12629.2,Cobro venta #879
+841,1,2022-01-21,Ingreso,978.4,Cobro venta #128
+842,1,2022-01-21,Egreso,16381.63,Pago compra #106
+843,1,2022-01-22,Ingreso,9373.0,Cobro venta #94
+844,3,2022-01-23,Egreso,1930.62,Pago compra #118
+845,1,2022-01-24,Ingreso,9051.3,Cobro venta #261
+846,3,2022-01-26,Ingreso,40803.55,Venta de activo
+847,3,2022-01-26,Ingreso,146627.04,Cobro venta #72
+848,4,2022-01-26,Ingreso,2728.98,Cobro venta #749
+849,2,2022-01-28,Ingreso,2725.1,Cobro venta #27
+850,2,2022-01-28,Ingreso,741.04,Cobro venta #296
+851,1,2022-01-29,Egreso,32262.89,Pago compra #339
+852,3,2022-01-31,Ingreso,17711.35,Venta de activo
+853,5,2022-02-01,Ingreso,25795.0,Cobro venta #176
+854,5,2022-02-01,Egreso,16408.38,Pago compra #9
+855,5,2022-02-04,Egreso,15638.52,Impuestos
+856,2,2022-02-04,Egreso,52723.43,Pago compra #326
+857,4,2022-02-04,Egreso,29265.95,Pago compra #30
+858,1,2022-02-05,Egreso,21925.72,Pago compra #38
+859,4,2022-02-07,Ingreso,110.7,Cobro venta #893
+860,3,2022-02-08,Ingreso,2331.48,Cobro venta #865
+861,4,2022-02-11,Ingreso,2678.0,Cobro venta #443
+862,5,2022-02-12,Ingreso,261.04,Cobro venta #139
+863,5,2022-02-13,Egreso,84519.53,Pago compra #235
+864,5,2022-02-15,Ingreso,905.13,Cobro venta #328
+865,4,2022-02-16,Ingreso,483.15,Cobro venta #344
+866,4,2022-02-17,Ingreso,1198.05,Cobro venta #69
+867,4,2022-02-17,Ingreso,2156.49,Cobro venta #717
+868,1,2022-02-17,Ingreso,1425.24,Cobro venta #420
+869,4,2022-02-17,Ingreso,147400.0,Cobro venta #673
+870,5,2022-02-17,Ingreso,155.72,Cobro venta #699
+871,3,2022-02-18,Ingreso,20597.4,Cobro venta #790
+872,4,2022-02-19,Egreso,8307.18,Pago compra #182
+873,2,2022-02-21,Ingreso,40682.6,Cobro venta #364
+874,2,2022-02-21,Ingreso,1158.16,Cobro venta #553
+875,2,2022-02-23,Ingreso,6280.95,Cobro venta #147
+876,3,2022-02-23,Ingreso,35643.28,Cobro venta #400
+877,5,2022-02-23,Ingreso,13659.66,Cobro venta #967
+878,4,2022-02-24,Egreso,6087.29,Pago compra #495
+879,2,2022-02-24,Ingreso,1355.95,Cobro venta #111
+880,1,2022-02-28,Ingreso,19097.16,Cobro venta #617
+881,4,2022-02-28,Ingreso,17780.58,Cobro venta #499
+882,3,2022-02-28,Ingreso,7077.25,Cobro venta #412
+883,2,2022-03-02,Ingreso,10447.36,Cobro venta #294
+884,3,2022-03-03,Ingreso,20467.35,Cobro venta #370
+885,1,2022-03-03,Ingreso,48935.01,Préstamo recibido
+886,4,2022-03-03,Egreso,9427.89,Pago nómina
+887,3,2022-03-05,Ingreso,5957.03,Venta de activo
+888,1,2022-03-06,Ingreso,2618.4,Cobro venta #3
+889,3,2022-03-07,Ingreso,2850.48,Cobro venta #92
+890,1,2022-03-07,Egreso,13389.32,Pago compra #104
+891,4,2022-03-10,Egreso,4673.51,Pago compra #237
+892,4,2022-03-10,Ingreso,17945.6,Préstamo recibido
+893,3,2022-03-11,Ingreso,70776.32,Cobro venta #189
+894,1,2022-03-12,Ingreso,8734.32,Cobro venta #58
+895,2,2022-03-12,Ingreso,101415.98,Cobro venta #14
+896,3,2022-03-14,Egreso,16895.26,Pago compra #62
+897,5,2022-03-14,Ingreso,606.3,Cobro venta #935
+898,1,2022-03-14,Egreso,29305.97,Pago compra #117
+899,4,2022-03-15,Ingreso,1306.0,Cobro venta #877
+900,3,2022-03-15,Ingreso,391.56,Cobro venta #203
+901,2,2022-03-15,Ingreso,5236.68,Cobro venta #836
+902,2,2022-03-17,Ingreso,205321.95,Cobro venta #355
+903,2,2022-03-17,Egreso,22095.08,Pago compra #114
+904,5,2022-03-19,Egreso,8589.91,Pago compra #109
+905,1,2022-03-19,Egreso,12680.96,Pago compra #421
+906,5,2022-03-19,Egreso,28007.1,Servicios
+907,5,2022-03-20,Egreso,19500.6,Pago compra #67
+908,3,2022-03-21,Egreso,1910.64,Pago compra #185
+909,2,2022-03-23,Egreso,11178.78,Pago compra #204
+910,1,2022-03-23,Ingreso,23163.2,Cobro venta #463
+911,1,2022-03-24,Ingreso,8946.37,Otros ingresos
+912,1,2022-03-24,Ingreso,3756.09,Otros ingresos
+913,1,2022-03-24,Ingreso,4130.07,Cobro venta #510
+914,2,2022-03-24,Ingreso,125693.37,Cobro venta #82
+915,2,2022-03-25,Ingreso,1389.26,Cobro venta #982
+916,4,2022-03-25,Ingreso,23871.45,Cobro venta #127
+917,4,2022-03-25,Ingreso,7126.2,Cobro venta #956
+918,1,2022-03-27,Ingreso,136585.35,Cobro venta #37
+919,5,2022-03-28,Ingreso,8238.96,Cobro venta #576
+920,1,2022-03-30,Egreso,68693.15,Pago compra #177
+921,1,2022-03-30,Egreso,28349.22,Seguros
+922,1,2022-03-31,Ingreso,5883.45,Cobro venta #17
+923,2,2022-04-01,Ingreso,37529.54,Cobro venta #621
+924,4,2022-04-01,Egreso,19316.83,Pago compra #111
+925,5,2022-04-02,Ingreso,45627.1,Cobro venta #268
+926,5,2022-04-03,Egreso,57309.76,Pago compra #482
+927,5,2022-04-03,Ingreso,8110.44,Cobro venta #88
+928,1,2022-04-05,Egreso,13013.46,Otros gastos
+929,3,2022-04-06,Ingreso,1275.67,Cobro venta #141
+930,1,2022-04-07,Ingreso,4632.64,Cobro venta #30
+931,4,2022-04-07,Ingreso,14661.18,Cobro venta #438
+932,1,2022-04-08,Ingreso,2180.08,Cobro venta #846
+933,2,2022-04-10,Ingreso,225.05,Cobro venta #577
+934,2,2022-04-10,Ingreso,1605.04,Cobro venta #804
+935,4,2022-04-11,Egreso,8893.1,Alquiler
+936,3,2022-04-12,Egreso,34976.5,Pago compra #444
+937,1,2022-04-12,Ingreso,12769.04,Cobro venta #91
+938,5,2022-04-13,Ingreso,21686.39,Cobro venta #825
+939,4,2022-04-13,Ingreso,6982.24,Cobro venta #61
+940,3,2022-04-13,Egreso,3955.27,Pago compra #457
+941,2,2022-04-14,Egreso,2161.83,Alquiler
+942,5,2022-04-15,Ingreso,12280.41,Cobro venta #114
+943,2,2022-04-15,Ingreso,463.15,Cobro venta #773
+944,1,2022-04-16,Egreso,7573.18,Pago compra #208
+945,5,2022-04-16,Ingreso,23919.69,Préstamo recibido
+946,3,2022-04-16,Ingreso,52733.88,Cobro venta #766
+947,2,2022-04-16,Ingreso,14740.0,Cobro venta #32
+948,4,2022-04-16,Ingreso,4525.65,Cobro venta #950
+949,1,2022-04-16,Ingreso,204833.64,Cobro venta #884
+950,4,2022-04-16,Ingreso,5423.8,Cobro venta #975
+951,4,2022-04-16,Ingreso,31872.54,Cobro venta #610
+952,2,2022-04-17,Ingreso,2273.08,Cobro venta #920
+953,2,2022-04-17,Egreso,6324.74,Otros gastos
+954,2,2022-04-18,Egreso,5692.67,Pago compra #176
+955,2,2022-04-18,Egreso,895.65,Pago compra #13
+956,2,2022-04-20,Egreso,4941.07,Alquiler
+957,1,2022-04-20,Egreso,41782.15,Pago compra #385
+958,1,2022-04-21,Ingreso,99193.4,Cobro venta #450
+959,5,2022-04-21,Egreso,17130.94,Pago compra #321
+960,5,2022-04-22,Ingreso,8386.35,Cobro venta #345
+961,5,2022-04-23,Ingreso,261.2,Cobro venta #483
+962,4,2022-04-23,Egreso,13837.12,Pago compra #243
+963,5,2022-04-25,Egreso,17768.57,Pago nómina
+964,3,2022-04-27,Ingreso,4253.86,Otros ingresos
+965,4,2022-04-27,Egreso,45696.27,Pago compra #180
+966,5,2022-04-27,Ingreso,27276.96,Cobro venta #921
+967,2,2022-04-28,Ingreso,22732.56,Cobro venta #241
+968,3,2022-04-29,Ingreso,14322.87,Cobro venta #254
+969,2,2022-04-30,Ingreso,15931.78,Cobro venta #925
+970,2,2022-05-01,Egreso,7113.4,Pago compra #97
+971,1,2022-05-02,Ingreso,6102.39,Cobro venta #26
+972,1,2022-05-02,Ingreso,32890.57,Venta de activo
+973,4,2022-05-04,Ingreso,211761.22,Cobro venta #478
+974,1,2022-05-05,Ingreso,11346.14,Cobro venta #530
+975,4,2022-05-06,Ingreso,12763.1,Cobro venta #185
+976,5,2022-05-06,Ingreso,700.74,Cobro venta #783
+977,2,2022-05-07,Ingreso,3317.64,Cobro venta #535
+978,2,2022-05-08,Egreso,13646.34,Servicios
+979,2,2022-05-09,Ingreso,24667.69,Inversión
+980,3,2022-05-10,Ingreso,23871.45,Cobro venta #883
+981,3,2022-05-11,Egreso,10127.12,Pago compra #202
+982,3,2022-05-11,Ingreso,8136.52,Cobro venta #585
+983,4,2022-05-11,Egreso,2189.72,Pago compra #315
+984,5,2022-05-12,Ingreso,1105.88,Cobro venta #939
+985,5,2022-05-12,Egreso,25243.23,Pago compra #19
+986,2,2022-05-13,Ingreso,135221.02,Cobro venta #778
+987,2,2022-05-15,Egreso,53340.78,Pago compra #383
+988,3,2022-05-16,Egreso,20695.59,Pago compra #403
+989,3,2022-05-17,Egreso,14663.98,Alquiler
+990,1,2022-05-17,Ingreso,1158.16,Cobro venta #283
+991,5,2022-05-18,Egreso,2442.67,Pago compra #88
+992,4,2022-05-18,Egreso,12519.58,Pago compra #500
+993,4,2022-05-18,Egreso,12622.52,Seguros
+994,2,2022-05-19,Egreso,1909.62,Pago compra #347
+995,5,2022-05-20,Egreso,12906.42,Pago compra #341
+996,1,2022-05-22,Ingreso,3945.92,Cobro venta #228
+997,2,2022-05-22,Ingreso,17812.5,Cobro venta #103
+998,1,2022-05-22,Egreso,10368.82,Pago compra #260
+999,5,2022-05-22,Ingreso,11756.86,Cobro venta #635
+1000,2,2022-05-24,Ingreso,6475.56,Cobro venta #870
+1001,2,2022-05-25,Ingreso,415.12,Cobro venta #23
+1002,5,2022-05-26,Ingreso,30964.64,Cobro venta #802
+1003,4,2022-05-26,Ingreso,734.1,Cobro venta #739
+1004,5,2022-05-27,Ingreso,114582.96,Cobro venta #675
+1005,2,2022-05-28,Egreso,16065.39,Pago compra #86
+1006,5,2022-05-28,Egreso,34201.19,Pago compra #213
+1007,4,2022-05-30,Egreso,20953.51,Pago compra #343
+1008,5,2022-05-30,Ingreso,935.82,Cobro venta #705
+1009,3,2022-05-30,Ingreso,2407.56,Cobro venta #570
+1010,1,2022-05-31,Ingreso,13366.23,Cobro venta #178
+1011,3,2022-05-31,Ingreso,45528.45,Cobro venta #743
+1012,3,2022-05-31,Ingreso,332.1,Cobro venta #9
+1013,1,2022-06-02,Egreso,8224.26,Pago compra #491
+1014,5,2022-06-03,Egreso,46849.06,Pago compra #460
+1015,2,2022-06-03,Ingreso,15936.27,Cobro venta #845
+1016,3,2022-06-03,Ingreso,415.06,Cobro venta #770
+1017,1,2022-06-04,Ingreso,2618.34,Cobro venta #225
+1018,2,2022-06-05,Ingreso,2331.48,Cobro venta #983
+1019,4,2022-06-08,Ingreso,12140.92,Cobro venta #634
+1020,2,2022-06-08,Ingreso,31735.66,Inversión
+1021,2,2022-06-08,Ingreso,35643.28,Cobro venta #642
+1022,2,2022-06-09,Ingreso,1044.8,Cobro venta #608
+1023,1,2022-06-10,Ingreso,41652.55,Venta de activo
+1024,4,2022-06-10,Ingreso,66249.96,Cobro venta #946
+1025,4,2022-06-12,Egreso,35833.85,Pago compra #471
+1026,5,2022-06-12,Egreso,9234.39,Pago compra #80
+1027,5,2022-06-13,Egreso,28755.65,Pago compra #496
+1028,1,2022-06-13,Egreso,19734.48,Pago compra #139
+1029,4,2022-06-15,Ingreso,4093.47,Cobro venta #707
+1030,5,2022-06-16,Egreso,25048.79,Servicios
+1031,2,2022-06-16,Ingreso,15976.49,Cobro venta #537
+1032,5,2022-06-16,Ingreso,12004.54,Venta de activo
+1033,5,2022-06-16,Ingreso,3797.83,Cobro venta #414
+1034,2,2022-06-17,Egreso,12194.08,Pago compra #219
+1035,2,2022-06-17,Egreso,29059.31,Alquiler
+1036,1,2022-06-18,Ingreso,4348.35,Cobro venta #696
+1037,3,2022-06-18,Ingreso,5507.24,Otros ingresos
+1038,4,2022-06-19,Egreso,20989.77,Pago compra #394
+1039,5,2022-06-20,Ingreso,155.72,Cobro venta #843
+1040,4,2022-06-20,Egreso,11205.28,Pago compra #486
+1041,5,2022-06-21,Egreso,35125.72,Pago compra #355
+1042,2,2022-06-21,Ingreso,15671.04,Cobro venta #479
+1043,1,2022-06-22,Ingreso,518.9,Cobro venta #358
+1044,5,2022-06-23,Egreso,19857.99,Mantenimiento
+1045,3,2022-06-24,Ingreso,1660.24,Cobro venta #502
+1046,4,2022-06-24,Ingreso,1068.75,Cobro venta #542
+1047,5,2022-06-25,Egreso,10776.0,Pago compra #92
+1048,3,2022-06-27,Ingreso,15567.2,Cobro venta #640
+1049,3,2022-06-28,Ingreso,2183.58,Cobro venta #944
+1050,1,2022-06-29,Ingreso,3409.62,Cobro venta #220
+1051,5,2022-06-30,Ingreso,207.56,Cobro venta #658
+1052,5,2022-06-30,Ingreso,38194.32,Cobro venta #806
+1053,5,2022-06-30,Egreso,3248.13,Pago compra #413
+1054,2,2022-07-02,Ingreso,28890.72,Cobro venta #664
+1055,4,2022-07-03,Ingreso,5790.8,Cobro venta #579
+1056,2,2022-07-04,Egreso,9278.34,Seguros
+1057,2,2022-07-06,Ingreso,733.8,Cobro venta #467
+1058,1,2022-07-09,Egreso,11000.78,Pago compra #359
+1059,2,2022-07-09,Egreso,9159.53,Pago compra #397
+1060,5,2022-07-10,Ingreso,364.66,Cobro venta #89
+1061,5,2022-07-10,Ingreso,518.9,Cobro venta #666
+1062,2,2022-07-10,Ingreso,13698.96,Cobro venta #683
+1063,1,2022-07-10,Egreso,29555.41,Mantenimiento
+1064,1,2022-07-12,Egreso,9891.11,Pago compra #412
+1065,2,2022-07-12,Egreso,22251.48,Pago compra #461
+1066,4,2022-07-13,Ingreso,46446.96,Cobro venta #122
+1067,1,2022-07-13,Ingreso,741.04,Cobro venta #236
+1068,2,2022-07-15,Ingreso,11481.03,Cobro venta #430
+1069,1,2022-07-18,Egreso,10387.44,Pago compra #377
+1070,2,2022-07-19,Ingreso,22110.0,Cobro venta #609
+1071,5,2022-07-20,Egreso,3287.28,Pago compra #170
+1072,1,2022-07-22,Egreso,5547.34,Pago compra #247
+1073,1,2022-07-24,Ingreso,17455.6,Cobro venta #611
+1074,1,2022-07-24,Ingreso,4348.35,Cobro venta #410
+1075,5,2022-07-24,Ingreso,7209.09,Cobro venta #933
+1076,5,2022-07-25,Egreso,21487.31,Pago compra #273
+1077,2,2022-07-26,Ingreso,191582.63,Cobro venta #789
+1078,2,2022-07-26,Egreso,9392.96,Seguros
+1079,1,2022-07-27,Egreso,8619.43,Pago compra #492
+1080,1,2022-07-28,Egreso,10843.99,Pago compra #322
+1081,1,2022-07-28,Ingreso,1764.26,Cobro venta #746
+1082,2,2022-07-28,Ingreso,16324.31,Devolución impuestos
+1083,2,2022-07-30,Ingreso,2807.2,Cobro venta #903
+1084,5,2022-07-30,Egreso,20929.39,Pago compra #226
+1085,1,2022-07-31,Ingreso,966.3,Cobro venta #74
+1086,3,2022-07-31,Egreso,75608.65,Pago compra #44
+1087,5,2022-07-31,Ingreso,5746.4,Cobro venta #515
+1088,4,2022-07-31,Egreso,19197.01,Otros gastos
+1089,3,2022-07-31,Egreso,19117.34,Pago compra #162
+1090,2,2022-08-01,Ingreso,3600.8,Cobro venta #136
+1091,5,2022-08-02,Egreso,4903.22,Pago compra #306
+1092,4,2022-08-05,Ingreso,622.68,Cobro venta #902
+1093,1,2022-08-06,Ingreso,253.66,Cobro venta #916
+1094,2,2022-08-06,Ingreso,2447.0,Cobro venta #623
+1095,1,2022-08-06,Ingreso,10461.09,Cobro venta #977
+1096,4,2022-08-07,Egreso,18791.98,Pago compra #214
+1097,2,2022-08-07,Ingreso,25763.05,Cobro venta #68
+1098,5,2022-08-08,Ingreso,5102.68,Cobro venta #231
+1099,4,2022-08-08,Egreso,17812.83,Pago compra #12
+1100,4,2022-08-08,Ingreso,26183.4,Cobro venta #284
+1101,3,2022-08-09,Ingreso,183.92,Cobro venta #733
+1102,2,2022-08-09,Ingreso,4546.16,Cobro venta #439
+1103,1,2022-08-10,Ingreso,16345.92,Préstamo recibido
+1104,4,2022-08-10,Ingreso,18400.85,Cobro venta #303
+1105,5,2022-08-10,Ingreso,1916.88,Cobro venta #988
+1106,2,2022-08-12,Ingreso,22766.1,Cobro venta #56
+1107,1,2022-08-14,Ingreso,2415.75,Cobro venta #352
+1108,2,2022-08-14,Ingreso,13947.36,Cobro venta #391
+1109,5,2022-08-14,Ingreso,456.82,Cobro venta #566
+1110,2,2022-08-15,Ingreso,611.75,Cobro venta #327
+1111,3,2022-08-16,Egreso,4426.95,Pago compra #405
+1112,3,2022-08-17,Ingreso,4455.41,Cobro venta #51
+1113,4,2022-08-18,Egreso,73744.8,Pago compra #282
+1114,2,2022-08-18,Egreso,14361.9,Pago compra #89
+1115,1,2022-08-18,Ingreso,434460.39,Cobro venta #302
+1116,3,2022-08-18,Ingreso,301.71,Cobro venta #230
+1117,3,2022-08-19,Ingreso,12140.92,Cobro venta #761
+1118,2,2022-08-20,Egreso,3914.93,Pago compra #48
+1119,3,2022-08-21,Ingreso,2551.34,Cobro venta #590
+1120,1,2022-08-21,Ingreso,1640.97,Cobro venta #149
+1121,2,2022-08-22,Ingreso,106085.28,Cobro venta #31
+1122,1,2022-08-23,Ingreso,830.12,Cobro venta #801
+1123,4,2022-08-24,Ingreso,4246.35,Cobro venta #876
+1124,2,2022-08-28,Egreso,4075.39,Pago compra #115
+1125,3,2022-08-29,Ingreso,356.25,Cobro venta #900
+1126,4,2022-08-30,Egreso,31889.96,Pago compra #351
+1127,3,2022-08-31,Ingreso,830.12,Cobro venta #360
+1128,5,2022-08-31,Ingreso,6819.24,Cobro venta #456
+1129,2,2022-09-01,Egreso,10220.55,Pago compra #346
+1130,4,2022-09-01,Ingreso,117920.0,Cobro venta #219
+1131,1,2022-09-02,Ingreso,4983.04,Cobro venta #288
+1132,2,2022-09-03,Ingreso,22650.6,Préstamo recibido
+1133,1,2022-09-05,Ingreso,152646.0,Cobro venta #482
+1134,1,2022-09-06,Egreso,746.46,Alquiler
+1135,3,2022-09-07,Ingreso,39677.36,Cobro venta #987
+1136,1,2022-09-07,Ingreso,33125.84,Inversión
+1137,1,2022-09-08,Ingreso,12739.05,Cobro venta #247
+1138,5,2022-09-11,Egreso,2735.98,Pago compra #140
+1139,2,2022-09-11,Egreso,13122.65,Pago compra #344
+1140,5,2022-09-11,Ingreso,1449.45,Cobro venta #366
+1141,4,2022-09-12,Ingreso,223185.15,Cobro venta #895
+1142,4,2022-09-13,Ingreso,14783.79,Cobro venta #155
+1143,5,2022-09-13,Ingreso,15936.27,Cobro venta #945
+1144,1,2022-09-14,Ingreso,1677.27,Cobro venta #120
+1145,1,2022-09-15,Ingreso,9310.62,Cobro venta #362
+1146,2,2022-09-15,Ingreso,5710.17,Venta de activo
+1147,4,2022-09-16,Ingreso,332.1,Cobro venta #757
+1148,2,2022-09-17,Egreso,16166.41,Pago compra #126
+1149,2,2022-09-17,Ingreso,6381.55,Cobro venta #521
+1150,5,2022-09-18,Egreso,12916.45,Mantenimiento
+1151,2,2022-09-18,Ingreso,5557.04,Cobro venta #152
+1152,5,2022-09-18,Egreso,52366.37,Pago compra #15
+1153,5,2022-09-18,Ingreso,155.72,Cobro venta #586
+1154,2,2022-09-18,Ingreso,12470.85,Cobro venta #934
+1155,2,2022-09-19,Ingreso,4119.48,Cobro venta #985
+1156,3,2022-09-20,Ingreso,13896.09,Cobro venta #464
+1157,2,2022-09-20,Ingreso,6779.75,Cobro venta #112
+1158,2,2022-09-21,Egreso,71909.11,Pago compra #101
+1159,3,2022-09-21,Ingreso,63058.03,Cobro venta #550
+1160,1,2022-09-22,Ingreso,81951.21,Cobro venta #676
+1161,1,2022-09-23,Ingreso,43869.96,Venta de activo
+1162,3,2022-09-24,Ingreso,9106.44,Cobro venta #171
+1163,3,2022-09-24,Egreso,8153.87,Pago compra #373
+1164,4,2022-09-24,Ingreso,356.25,Cobro venta #477
+1165,1,2022-09-25,Ingreso,545.5,Cobro venta #380
+1166,2,2022-09-26,Ingreso,4130.07,Cobro venta #871
+1167,5,2022-09-27,Egreso,9243.38,Pago compra #445
+1168,5,2022-09-29,Ingreso,2273.08,Cobro venta #118
+1169,4,2022-09-29,Ingreso,5614.4,Cobro venta #808
+1170,3,2022-09-30,Ingreso,1737.24,Cobro venta #321
+1171,3,2022-10-02,Egreso,6531.2,Pago compra #472
+1172,3,2022-10-04,Ingreso,1141.58,Cobro venta #326
+1173,4,2022-10-05,Ingreso,14606.25,Cobro venta #169
+1174,2,2022-10-06,Ingreso,289.35,Cobro venta #796
+1175,5,2022-10-06,Egreso,34323.08,Pago compra #146
+1176,1,2022-10-09,Ingreso,45386.66,Préstamo recibido
+1177,3,2022-10-10,Ingreso,40479.87,Cobro venta #35
+1178,3,2022-10-10,Ingreso,58916.0,Cobro venta #64
+1179,3,2022-10-11,Egreso,2033.0,Impuestos
+1180,5,2022-10-11,Ingreso,1932.6,Cobro venta #555
+1181,5,2022-10-13,Ingreso,4632.64,Cobro venta #861
+1182,4,2022-10-13,Ingreso,39677.36,Cobro venta #239
+1183,1,2022-10-14,Ingreso,2238.72,Cobro venta #197
+1184,2,2022-10-14,Egreso,20083.07,Pago compra #135
+1185,5,2022-10-15,Egreso,11737.88,Pago compra #129
+1186,3,2022-10-15,Ingreso,6007.6,Cobro venta #33
+1187,1,2022-10-15,Ingreso,239.61,Cobro venta #584
+1188,5,2022-10-16,Ingreso,32587.17,Cobro venta #496
+1189,1,2022-10-17,Ingreso,17812.5,Cobro venta #434
+1190,4,2022-10-17,Egreso,11688.86,Pago compra #68
+1191,3,2022-10-17,Ingreso,13923.6,Cobro venta #507
+1192,3,2022-10-17,Ingreso,4562.71,Cobro venta #451
+1193,2,2022-10-17,Ingreso,117825.3,Cobro venta #329
+1194,1,2022-10-18,Egreso,21283.78,Pago compra #418
+1195,5,2022-10-19,Ingreso,2435.4,Cobro venta #511
+1196,4,2022-10-22,Ingreso,4423.52,Cobro venta #814
+1197,1,2022-10-26,Ingreso,3885.8,Cobro venta #90
+1198,2,2022-10-27,Ingreso,1389.26,Cobro venta #872
+1199,5,2022-10-27,Ingreso,23276.55,Cobro venta #700
+1200,2,2022-10-28,Egreso,18446.33,Seguros
+1201,3,2022-11-03,Egreso,34008.34,Pago compra #70
+1202,5,2022-11-03,Egreso,22070.26,Pago compra #161
+1203,1,2022-11-03,Egreso,66664.37,Pago compra #375
+1204,4,2022-11-05,Ingreso,18250.84,Cobro venta #19
+1205,4,2022-11-06,Ingreso,16685.4,Otros ingresos
+1206,5,2022-11-08,Ingreso,175515.8,Cobro venta #433
+1207,2,2022-11-09,Egreso,28859.37,Pago nómina
+1208,1,2022-11-10,Ingreso,4548.3,Cobro venta #252
+1209,3,2022-11-11,Ingreso,2716.8,Cobro venta #812
+1210,2,2022-11-11,Egreso,27362.63,Pago compra #20
+1211,4,2022-11-11,Ingreso,634.15,Cobro venta #388
+1212,1,2022-11-12,Egreso,9591.39,Pago compra #395
+1213,5,2022-11-12,Egreso,4849.89,Seguros
+1214,5,2022-11-13,Ingreso,19856.2,Cobro venta #816
+1215,1,2022-11-13,Ingreso,15936.27,Cobro venta #672
+1216,2,2022-11-14,Ingreso,33732.95,Devolución impuestos
+1217,4,2022-11-17,Ingreso,89108.2,Cobro venta #969
+1218,1,2022-11-17,Ingreso,3474.48,Cobro venta #633
+1219,1,2022-11-18,Ingreso,21917.28,Cobro venta #436
+1220,1,2022-11-21,Egreso,52487.93,Pago compra #286
+1221,1,2022-11-21,Egreso,40966.91,Pago compra #294
+1222,3,2022-11-21,Egreso,9252.89,Pago compra #221
+1223,1,2022-11-22,Ingreso,31823.12,Cobro venta #726
+1224,3,2022-11-22,Ingreso,505.25,Cobro venta #164
+1225,5,2022-11-23,Egreso,14640.68,Pago compra #278
+1226,5,2022-11-23,Ingreso,1103.52,Cobro venta #184
+1227,3,2022-11-23,Ingreso,8716.26,Cobro venta #15
+1228,5,2022-11-24,Egreso,3761.04,Pago compra #79
+1229,4,2022-11-26,Egreso,17761.69,Pago compra #484
+1230,4,2022-11-28,Egreso,27994.26,Pago compra #488
+1231,5,2022-11-29,Ingreso,158709.44,Cobro venta #258
+1232,4,2022-12-01,Egreso,23625.89,Seguros
+1233,5,2022-12-03,Egreso,23251.13,Servicios
+1234,5,2022-12-03,Ingreso,2075.6,Cobro venta #578
+1235,2,2022-12-05,Egreso,2657.7,Otros gastos
+1236,1,2022-12-06,Egreso,13441.2,Seguros
+1237,5,2022-12-06,Ingreso,7654.02,Cobro venta #885
+1238,4,2022-12-06,Ingreso,1245.18,Cobro venta #205
+1239,2,2022-12-07,Ingreso,18212.88,Cobro venta #718
+1240,4,2022-12-07,Ingreso,44187.0,Cobro venta #556
+1241,3,2022-12-09,Ingreso,7891.84,Cobro venta #301
+1242,2,2022-12-10,Egreso,12024.33,Pago compra #57
+1243,5,2022-12-10,Ingreso,6452.4,Cobro venta #750
+1244,3,2022-12-10,Egreso,11013.52,Servicios
+1245,1,2022-12-10,Ingreso,4774.29,Cobro venta #104
+1246,1,2022-12-11,Egreso,11063.84,Pago compra #459
+1247,2,2022-12-12,Egreso,7296.25,Pago compra #256
+1248,2,2022-12-14,Ingreso,29866.23,Cobro venta #47
+1249,2,2022-12-14,Egreso,11417.39,Pago compra #236
+1250,1,2022-12-15,Egreso,18152.77,Pago compra #16
+1251,2,2022-12-15,Egreso,29697.23,Servicios
+1252,4,2022-12-17,Ingreso,63877.94,Cobro venta #854
+1253,5,2022-12-19,Ingreso,622.88,Cobro venta #928
+1254,4,2022-12-20,Ingreso,12505.05,Cobro venta #75
+1255,4,2022-12-22,Ingreso,475.0,Cobro venta #544
+1256,5,2022-12-24,Egreso,7275.89,Pago compra #55
+1257,2,2022-12-24,Ingreso,27317.07,Cobro venta #840
+1258,1,2022-12-25,Ingreso,1175.4,Cobro venta #270
+1259,2,2022-12-25,Ingreso,356.25,Cobro venta #363
+1260,5,2022-12-27,Ingreso,1141.47,Cobro venta #602
+1261,4,2022-12-29,Ingreso,65671.84,Cobro venta #191
+1262,2,2022-12-31,Ingreso,1014.64,Cobro venta #527
+1263,2,2022-12-31,Ingreso,10605.96,Cobro venta #311
+1264,5,2023-01-01,Egreso,7915.28,Pago compra #1
+1265,1,2023-01-01,Ingreso,93563.61,Cobro venta #214
+1266,1,2023-01-02,Ingreso,116188.64,Cobro venta #651
+1267,4,2023-01-03,Ingreso,7209.09,Cobro venta #660
+1268,2,2023-01-05,Ingreso,1482.08,Cobro venta #372
+1269,2,2023-01-06,Egreso,50994.1,Pago compra #480
+1270,1,2023-01-07,Ingreso,195.78,Cobro venta #657
+1271,5,2023-01-07,Ingreso,3646.6,Cobro venta #728
+1272,3,2023-01-07,Ingreso,8847.04,Cobro venta #472
+1273,1,2023-01-09,Egreso,4339.98,Pago compra #330
+1274,2,2023-01-10,Ingreso,196038.04,Cobro venta #949
+1275,5,2023-01-12,Ingreso,5356.0,Cobro venta #995
+1276,1,2023-01-13,Egreso,10268.6,Pago compra #34
+1277,5,2023-01-13,Ingreso,30222.72,Cobro venta #340
+1278,1,2023-01-15,Ingreso,99672.37,Cobro venta #794
+1279,5,2023-01-15,Ingreso,11055.0,Cobro venta #588
+1280,3,2023-01-16,Ingreso,15265.36,Cobro venta #593
+1281,3,2023-01-18,Egreso,12498.37,Pago compra #391
+1282,1,2023-01-19,Ingreso,8490.0,Cobro venta #107
+1283,1,2023-01-19,Ingreso,12739.05,Cobro venta #828
+1284,5,2023-01-19,Egreso,35908.81,Pago compra #324
+1285,1,2023-01-19,Ingreso,4246.35,Cobro venta #781
+1286,5,2023-01-19,Ingreso,3536.75,Cobro venta #725
+1287,1,2023-01-19,Ingreso,22413.24,Cobro venta #109
+1288,2,2023-01-21,Egreso,36701.04,Pago compra #307
+1289,2,2023-01-22,Ingreso,59448.9,Cobro venta #206
+1290,3,2023-01-22,Ingreso,934.02,Cobro venta #273
+1291,3,2023-01-24,Ingreso,1972.96,Cobro venta #810
+1292,4,2023-01-26,Egreso,33971.84,Pago compra #179
+1293,1,2023-01-28,Ingreso,9268.83,Cobro venta #204
+1294,4,2023-01-28,Ingreso,2734.95,Cobro venta #932
+1295,1,2023-01-30,Egreso,16230.26,Pago compra #379
+1296,5,2023-01-30,Egreso,19120.42,Pago compra #40
+1297,4,2023-01-30,Ingreso,2183.58,Cobro venta #1000
+1298,4,2023-01-30,Ingreso,48871.22,Cobro venta #698
+1299,4,2023-01-31,Ingreso,65491.11,Cobro venta #908
+1300,2,2023-01-31,Ingreso,694.63,Cobro venta #677
+1301,1,2023-02-02,Ingreso,61232.16,Cobro venta #181
+1302,5,2023-02-03,Ingreso,46553.1,Cobro venta #795
+1303,3,2023-02-03,Ingreso,18250.84,Cobro venta #21
+1304,1,2023-02-03,Ingreso,7577.52,Cobro venta #793
+1305,3,2023-02-04,Ingreso,11323.6,Cobro venta #338
+1306,3,2023-02-05,Ingreso,14322.87,Cobro venta #144
+1307,1,2023-02-05,Ingreso,233.58,Cobro venta #599
+1308,1,2023-02-06,Ingreso,8910.82,Cobro venta #428
+1309,3,2023-02-06,Egreso,15392.02,Pago compra #175
+1310,5,2023-02-06,Ingreso,911.65,Cobro venta #818
+1311,2,2023-02-08,Egreso,7354.39,Pago compra #425
+1312,3,2023-02-08,Egreso,3154.22,Pago compra #46
+1313,2,2023-02-09,Ingreso,198386.8,Cobro venta #730
+1314,4,2023-02-10,Egreso,29628.93,Pago compra #257
+1315,1,2023-02-11,Egreso,21611.22,Pago compra #8
+1316,2,2023-02-12,Egreso,17030.29,Servicios
+1317,3,2023-02-13,Ingreso,8492.7,Cobro venta #968
+1318,2,2023-02-13,Egreso,3310.4,Pago compra #11
+1319,1,2023-02-14,Egreso,12588.39,Pago compra #217
+1320,2,2023-02-15,Egreso,10122.39,Pago compra #125
+1321,5,2023-02-15,Ingreso,2180.08,Cobro venta #447
+1322,1,2023-02-15,Ingreso,24798.35,Cobro venta #248
+1323,1,2023-02-16,Ingreso,14445.36,Cobro venta #78
+1324,1,2023-02-16,Ingreso,253.66,Cobro venta #167
+1325,3,2023-02-17,Egreso,28033.22,Otros gastos
+1326,5,2023-02-18,Ingreso,5202.9,Cobro venta #446
+1327,2,2023-02-20,Ingreso,664.2,Cobro venta #980
+1328,5,2023-02-23,Ingreso,654.6,Cobro venta #630
+1329,4,2023-02-24,Egreso,21289.13,Pago compra #71
+1330,5,2023-02-26,Egreso,2719.9,Pago compra #498
+1331,5,2023-02-26,Ingreso,9714.5,Cobro venta #66
+1332,2,2023-02-27,Egreso,4320.14,Pago compra #363
+1333,1,2023-02-28,Ingreso,36501.68,Cobro venta #603
+1334,2,2023-03-01,Ingreso,96.45,Cobro venta #592
+1335,2,2023-03-02,Egreso,3457.29,Pago compra #261
+1336,3,2023-03-02,Ingreso,777.16,Cobro venta #265
+1337,3,2023-03-02,Ingreso,1345.85,Cobro venta #330
+1338,3,2023-03-03,Egreso,2139.4,Pago compra #21
+1339,2,2023-03-04,Ingreso,139620.58,Cobro venta #476
+1340,4,2023-03-05,Ingreso,122.3,Cobro venta #551
+1341,3,2023-03-05,Egreso,78352.64,Pago compra #462
+1342,2,2023-03-06,Ingreso,43855.68,Otros ingresos
+1343,4,2023-03-06,Egreso,49018.89,Pago compra #427
+1344,1,2023-03-06,Ingreso,10103.36,Cobro venta #292
+1345,1,2023-03-07,Egreso,1864.73,Otros gastos
+1346,3,2023-03-07,Ingreso,3210.08,Cobro venta #183
+1347,3,2023-03-09,Egreso,64250.73,Pago compra #358
+1348,1,2023-03-10,Egreso,7455.78,Pago compra #168
+1349,4,2023-03-11,Ingreso,19793.19,Préstamo recibido
+1350,4,2023-03-11,Ingreso,1698.0,Cobro venta #135
+1351,5,2023-03-11,Ingreso,2526.25,Cobro venta #426
+1352,2,2023-03-13,Ingreso,7110.87,Cobro venta #520
+1353,2,2023-03-14,Ingreso,133550.12,Cobro venta #40
+1354,4,2023-03-14,Ingreso,5236.8,Cobro venta #631
+1355,2,2023-03-15,Ingreso,9491.65,Cobro venta #822
+1356,1,2023-03-16,Egreso,18523.31,Impuestos
+1357,4,2023-03-18,Egreso,11888.53,Pago compra #165
+1358,3,2023-03-20,Egreso,17788.42,Pago compra #78
+1359,1,2023-03-20,Ingreso,3197.74,Cobro venta #266
+1360,2,2023-03-21,Egreso,36822.96,Pago compra #29
+1361,5,2023-03-21,Ingreso,718.83,Cobro venta #50
+1362,3,2023-03-23,Ingreso,2988.9,Cobro venta #297
+1363,3,2023-03-23,Ingreso,619156.23,Cobro venta #798
+1364,1,2023-03-24,Egreso,49375.16,Pago compra #199
+1365,4,2023-03-25,Egreso,34220.1,Pago compra #308
+1366,1,2023-03-25,Egreso,42188.13,Pago compra #381
+1367,2,2023-03-25,Ingreso,25570.63,Préstamo recibido
+1368,2,2023-03-26,Egreso,24857.3,Pago compra #110
+1369,5,2023-03-26,Ingreso,1942.9,Cobro venta #751
+1370,3,2023-03-26,Ingreso,7427.91,Cobro venta #85
+1371,5,2023-03-26,Egreso,18919.31,Pago compra #156
+1372,5,2023-03-26,Egreso,3950.77,Pago compra #293
+1373,1,2023-03-27,Egreso,8863.46,Otros gastos
+1374,3,2023-03-27,Ingreso,4340.25,Cobro venta #485
+1375,5,2023-03-27,Egreso,12537.19,Otros gastos
+1376,4,2023-03-28,Ingreso,3940.95,Cobro venta #350
+1377,4,2023-03-29,Ingreso,2812.9,Cobro venta #269
+1378,3,2023-03-29,Ingreso,32288.64,Inversión
+1379,1,2023-03-30,Ingreso,11994.09,Otros ingresos
+1380,3,2023-04-02,Ingreso,5617.64,Cobro venta #195
+1381,5,2023-04-03,Egreso,13939.26,Pago compra #338
+1382,4,2023-04-03,Ingreso,1093.98,Cobro venta #512
+1383,3,2023-04-04,Ingreso,981.9,Cobro venta #680
+1384,5,2023-04-06,Ingreso,3473.15,Cobro venta #437
+1385,2,2023-04-06,Ingreso,42968.61,Cobro venta #188
+1386,3,2023-04-07,Ingreso,13385.53,Venta de activo
+1387,4,2023-04-09,Egreso,31764.8,Pago compra #155
+1388,3,2023-04-11,Egreso,26383.71,Pago compra #455
+1389,1,2023-04-11,Egreso,26647.88,Mantenimiento
+1390,5,2023-04-12,Ingreso,14740.0,Cobro venta #361
+1391,4,2023-04-13,Ingreso,22110.0,Cobro venta #341
+1392,3,2023-04-13,Ingreso,15671.04,Cobro venta #697
+1393,4,2023-04-13,Ingreso,100379.62,Cobro venta #160
+1394,2,2023-04-15,Ingreso,61361.04,Cobro venta #264
+1395,3,2023-04-16,Ingreso,29480.0,Cobro venta #580
+1396,2,2023-04-18,Ingreso,551.76,Cobro venta #162
+1397,1,2023-04-18,Ingreso,3638.64,Cobro venta #60
+1398,4,2023-04-18,Egreso,22279.47,Pago compra #311
+1399,4,2023-04-19,Egreso,29337.91,Pago compra #356
+1400,5,2023-04-20,Ingreso,579.08,Cobro venta #413
+1401,4,2023-04-20,Egreso,6929.67,Pago compra #249
+1402,3,2023-04-21,Ingreso,12872.37,Devolución impuestos
+1403,3,2023-04-24,Ingreso,10447.36,Cobro venta #974
+1404,2,2023-04-24,Ingreso,1401.48,Cobro venta #754
+1405,3,2023-04-26,Egreso,6820.84,Pago compra #328
+1406,5,2023-04-27,Egreso,14861.98,Pago compra #174
+1407,2,2023-04-30,Egreso,27764.99,Pago compra #22
+1408,4,2023-04-30,Ingreso,17680.88,Cobro venta #44
+1409,4,2023-05-01,Ingreso,28910.49,Cobro venta #38
+1410,3,2023-05-01,Egreso,16270.64,Pago compra #167
+1411,3,2023-05-02,Ingreso,38853.36,Cobro venta #45
+1412,4,2023-05-02,Egreso,9518.0,Pago compra #340
+1413,4,2023-05-02,Egreso,20247.76,Pago compra #149
+1414,1,2023-05-03,Ingreso,391.8,Cobro venta #966
+1415,2,2023-05-05,Ingreso,34391.55,Devolución impuestos
+1416,1,2023-05-06,Egreso,6332.46,Pago compra #61
+1417,2,2023-05-07,Egreso,4402.42,Pago compra #250
+1418,3,2023-05-09,Ingreso,590.01,Cobro venta #605
+1419,5,2023-05-09,Egreso,7839.58,Pago compra #220
+1420,1,2023-05-11,Egreso,1214.08,Alquiler
+1421,1,2023-05-12,Egreso,12378.8,Otros gastos
+1422,2,2023-05-13,Ingreso,12051.0,Cobro venta #150
+1423,3,2023-05-14,Ingreso,16582.82,Cobro venta #829
+1424,5,2023-05-15,Ingreso,11764.01,Cobro venta #548
+1425,2,2023-05-15,Ingreso,6972.45,Cobro venta #255
+1426,5,2023-05-15,Ingreso,204833.64,Cobro venta #346
+1427,3,2023-05-15,Ingreso,3497.22,Cobro venta #910
+1428,5,2023-05-16,Egreso,16570.78,Pago compra #265
+1429,5,2023-05-16,Egreso,26193.54,Otros gastos
+1430,1,2023-05-17,Egreso,37122.27,Pago compra #435
+1431,5,2023-05-17,Ingreso,2611.84,Cobro venta #869
+1432,2,2023-05-17,Ingreso,3486.84,Cobro venta #473
+1433,1,2023-05-18,Egreso,9985.48,Alquiler
+1434,3,2023-05-18,Egreso,4224.52,Pago compra #113
+1435,4,2023-05-20,Ingreso,2377.2,Cobro venta #929
+1436,1,2023-05-20,Ingreso,4774.29,Cobro venta #249
+1437,2,2023-05-21,Ingreso,1068.93,Cobro venta #961
+1438,4,2023-05-21,Egreso,15975.07,Pago compra #244
+1439,1,2023-05-21,Ingreso,9952.92,Cobro venta #354
+1440,3,2023-05-21,Egreso,19033.17,Pago compra #6
+1441,5,2023-05-22,Ingreso,42968.61,Cobro venta #597
+1442,4,2023-05-23,Ingreso,10205.36,Cobro venta #647
+1443,5,2023-05-25,Ingreso,88599.24,Cobro venta #951
+1444,1,2023-05-25,Ingreso,1355.95,Cobro venta #227
+1445,3,2023-05-29,Ingreso,8492.7,Cobro venta #503
+1446,4,2023-05-30,Ingreso,856.45,Cobro venta #931
+1447,3,2023-05-31,Ingreso,100260.09,Cobro venta #415
+1448,2,2023-06-04,Egreso,8561.72,Pago compra #360
+1449,1,2023-06-04,Ingreso,726.46,Cobro venta #720
+1450,5,2023-06-04,Egreso,51466.07,Pago compra #123
+1451,5,2023-06-06,Egreso,19385.72,Alquiler
+1452,3,2023-06-06,Ingreso,2950.05,Cobro venta #942
+1453,3,2023-06-06,Ingreso,20846.88,Cobro venta #166
+1454,4,2023-06-06,Egreso,27452.96,Pago compra #234
+1455,5,2023-06-07,Ingreso,326.3,Cobro venta #991
+1456,2,2023-06-07,Ingreso,96.45,Cobro venta #115
+1457,4,2023-06-08,Ingreso,24281.84,Cobro venta #721
+1458,4,2023-06-08,Ingreso,31187.87,Cobro venta #322
+1459,1,2023-06-08,Egreso,15943.04,Pago compra #440
+1460,2,2023-06-08,Ingreso,3108.64,Cobro venta #100
+1461,1,2023-06-10,Ingreso,1810.26,Cobro venta #271
+1462,5,2023-06-11,Egreso,14119.71,Pago compra #329
+1463,3,2023-06-14,Egreso,55286.46,Pago compra #3
+1464,2,2023-06-14,Egreso,8565.36,Pago compra #95
+1465,5,2023-06-15,Ingreso,2034.13,Cobro venta #937
+1466,4,2023-06-16,Ingreso,51681.14,Cobro venta #469
+1467,4,2023-06-16,Egreso,3787.98,Pago compra #134
+1468,3,2023-06-17,Egreso,11075.93,Pago compra #131
+1469,4,2023-06-17,Ingreso,6695.0,Cobro venta #170
+1470,2,2023-06-18,Ingreso,3763.8,Cobro venta #129
+1471,3,2023-06-19,Ingreso,634.15,Cobro venta #235
+1472,4,2023-06-19,Ingreso,28064.74,Cobro venta #694
+1473,1,2023-06-20,Ingreso,5529.4,Cobro venta #416
+1474,5,2023-06-23,Egreso,21907.98,Pago compra #239
+1475,2,2023-06-25,Egreso,8881.72,Pago compra #227
+1476,3,2023-06-25,Ingreso,10170.65,Cobro venta #891
+1477,5,2023-06-25,Egreso,15908.6,Pago compra #85
+1478,2,2023-06-25,Egreso,24707.0,Seguros
+1479,4,2023-06-29,Egreso,32125.6,Pago compra #24
+1480,2,2023-06-30,Ingreso,29866.23,Cobro venta #852
+1481,5,2023-07-01,Ingreso,155.72,Cobro venta #232
+1482,1,2023-07-01,Ingreso,2740.92,Cobro venta #495
+1483,4,2023-07-03,Ingreso,934.02,Cobro venta #702
+1484,4,2023-07-03,Ingreso,48871.22,Cobro venta #97
+1485,3,2023-07-04,Egreso,9217.5,Pago compra #75
+1486,2,2023-07-05,Ingreso,4017.0,Cobro venta #755
+1487,5,2023-07-05,Ingreso,11323.6,Cobro venta #246
+1488,2,2023-07-06,Ingreso,553.5,Cobro venta #339
+1489,3,2023-07-08,Egreso,14341.63,Pago compra #317
+1490,3,2023-07-08,Egreso,4364.28,Pago compra #100
+1491,5,2023-07-08,Ingreso,2959.44,Cobro venta #656
+1492,5,2023-07-08,Ingreso,46545.78,Venta de activo
+1493,4,2023-07-08,Ingreso,255.2,Cobro venta #153
+1494,2,2023-07-11,Ingreso,277.89,Cobro venta #989
+1495,4,2023-07-12,Egreso,10392.52,Pago compra #374
+1496,4,2023-07-13,Ingreso,1339.0,Cobro venta #744
+1497,2,2023-07-14,Ingreso,6102.39,Cobro venta #318
+1498,4,2023-07-14,Ingreso,102497.16,Cobro venta #655
+1499,4,2023-07-14,Ingreso,2324.65,Cobro venta #300
+1500,3,2023-07-14,Egreso,4261.31,Pago compra #181
+1501,1,2023-07-15,Egreso,7465.54,Pago compra #133
+1502,1,2023-07-15,Ingreso,2968.75,Cobro venta #159
+1503,4,2023-07-17,Ingreso,19838.68,Cobro venta #25
+1504,1,2023-07-18,Egreso,18473.74,Pago compra #83
+1505,3,2023-07-19,Ingreso,981.9,Cobro venta #762
+1506,2,2023-07-20,Ingreso,96.45,Cobro venta #57
+1507,2,2023-07-20,Ingreso,5051.68,Cobro venta #567
+1508,5,2023-07-21,Ingreso,174917.55,Cobro venta #504
+1509,4,2023-07-21,Ingreso,257.2,Cobro venta #369
+1510,1,2023-07-22,Ingreso,3945.92,Cobro venta #117
+1511,3,2023-07-22,Ingreso,1206.84,Cobro venta #215
+1512,1,2023-07-22,Egreso,27527.96,Pago compra #240
+1513,4,2023-07-23,Ingreso,3317.64,Cobro venta #591
+1514,2,2023-07-24,Ingreso,3089.61,Cobro venta #993
+1515,4,2023-07-25,Egreso,16824.67,Pago compra #49
+1516,4,2023-07-25,Egreso,35030.79,Pago compra #410
+1517,3,2023-07-26,Egreso,4693.16,Mantenimiento
+1518,3,2023-07-27,Ingreso,1819.32,Cobro venta #182
+1519,2,2023-07-28,Egreso,10308.79,Pago compra #474
+1520,1,2023-07-28,Ingreso,10228.86,Cobro venta #764
+1521,2,2023-07-28,Ingreso,700.74,Cobro venta #196
+1522,1,2023-07-31,Egreso,77206.62,Pago compra #145
+1523,1,2023-07-31,Egreso,48136.69,Pago compra #248
+1524,4,2023-08-01,Ingreso,11323.6,Cobro venta #28
+1525,5,2023-08-01,Ingreso,831.25,Cobro venta #964
+1526,3,2023-08-02,Ingreso,207.56,Cobro venta #625
+1527,4,2023-08-03,Ingreso,3473.15,Cobro venta #598
+1528,3,2023-08-04,Ingreso,493.24,Cobro venta #668
+1529,4,2023-08-04,Ingreso,22763.0,Cobro venta #389
+1530,1,2023-08-10,Egreso,4881.89,Pago compra #475
+1531,1,2023-08-10,Egreso,48102.61,Pago compra #296
+1532,1,2023-08-11,Egreso,17773.91,Pago compra #72
+1533,1,2023-08-11,Ingreso,935.82,Cobro venta #487
+1534,3,2023-08-12,Ingreso,2728.98,Cobro venta #832
+1535,3,2023-08-12,Egreso,26202.31,Mantenimiento
+1536,2,2023-08-13,Ingreso,20292.3,Cobro venta #837
+1537,3,2023-08-13,Ingreso,188466.21,Cobro venta #817
+1538,1,2023-08-13,Ingreso,1339.0,Cobro venta #409
+1539,3,2023-08-13,Ingreso,5149.35,Cobro venta #691
+1540,2,2023-08-15,Egreso,32862.93,Pago compra #241
+1541,3,2023-08-15,Ingreso,958.44,Cobro venta #889
+1542,4,2023-08-17,Ingreso,2984.96,Cobro venta #8
+1543,5,2023-08-18,Egreso,20737.44,Pago compra #416
+1544,3,2023-08-19,Ingreso,26780.0,Cobro venta #674
+1545,4,2023-08-20,Ingreso,3827.01,Cobro venta #692
+1546,4,2023-08-22,Egreso,657.8,Alquiler
+1547,1,2023-08-23,Egreso,4579.96,Pago compra #188
+1548,3,2023-08-23,Ingreso,763.7,Cobro venta #36
+1549,5,2023-08-23,Egreso,6744.51,Pago compra #151
+1550,5,2023-08-24,Ingreso,2407.56,Cobro venta #693
+1551,1,2023-08-24,Ingreso,46905.82,Préstamo recibido
+1552,3,2023-08-25,Ingreso,7471.08,Cobro venta #192
+1553,5,2023-08-25,Egreso,8875.86,Pago compra #66
+1554,5,2023-08-26,Ingreso,21627.27,Cobro venta #799
+1555,2,2023-08-26,Ingreso,2400.2,Cobro venta #137
+1556,5,2023-08-27,Egreso,38491.14,Pago compra #439
+1557,5,2023-08-28,Ingreso,311.44,Cobro venta #96
+1558,1,2023-08-28,Ingreso,1100.7,Cobro venta #334
+1559,5,2023-08-28,Egreso,41186.98,Pago compra #60
+1560,3,2023-08-29,Ingreso,16708.94,Cobro venta #140
+1561,4,2023-08-29,Ingreso,160.75,Cobro venta #582
+1562,3,2023-08-30,Ingreso,1364.49,Cobro venta #156
+1563,2,2023-08-30,Ingreso,4962.8,Cobro venta #458
+1564,2,2023-08-30,Ingreso,148726.27,Cobro venta #768
+1565,4,2023-08-31,Ingreso,218.2,Cobro venta #857
+1566,3,2023-08-31,Ingreso,4260.98,Cobro venta #930
+1567,1,2023-09-03,Ingreso,486047.66,Cobro venta #348
+1568,4,2023-09-03,Ingreso,51976.36,Cobro venta #858
+1569,5,2023-09-04,Ingreso,7427.91,Cobro venta #524
+1570,3,2023-09-04,Egreso,53953.51,Pago compra #431
+1571,1,2023-09-05,Egreso,4554.12,Pago compra #59
+1572,2,2023-09-06,Ingreso,110604.28,Cobro venta #533
+1573,3,2023-09-07,Ingreso,23163.2,Cobro venta #201
+1574,1,2023-09-07,Ingreso,712.62,Cobro venta #475
+1575,1,2023-09-09,Ingreso,182671.81,Cobro venta #881
+1576,3,2023-09-12,Ingreso,28479.83,Cobro venta #401
+1577,1,2023-09-15,Egreso,22509.19,Pago compra #229
+1578,3,2023-09-16,Egreso,5389.59,Pago compra #476
+1579,4,2023-09-16,Ingreso,436.4,Cobro venta #216
+1580,2,2023-09-17,Ingreso,2984.96,Cobro venta #445
+1581,1,2023-09-19,Egreso,7680.4,Pago compra #368
+1582,4,2023-09-19,Egreso,38482.01,Pago compra #108
+1583,1,2023-09-22,Ingreso,2778.52,Cobro venta #275
+1584,5,2023-09-22,Ingreso,4067.85,Cobro venta #650
+1585,3,2023-09-23,Ingreso,9908.61,Inversión
+1586,2,2023-09-24,Egreso,2940.78,Pago nómina
+1587,5,2023-09-25,Egreso,36675.67,Pago compra #466
+1588,1,2023-09-26,Ingreso,729.32,Cobro venta #850
+1589,4,2023-09-26,Ingreso,4593.6,Cobro venta #295
+1590,3,2023-10-01,Egreso,3267.79,Pago compra #272
+1591,4,2023-10-02,Egreso,6488.54,Pago compra #300
+1592,2,2023-10-03,Ingreso,2024.57,Préstamo recibido
+1593,4,2023-10-03,Ingreso,5129.07,Cobro venta #678
+1594,5,2023-10-04,Egreso,11142.45,Pago compra #370
+1595,2,2023-10-04,Egreso,13403.21,Pago compra #173
+1596,2,2023-10-04,Ingreso,47552.84,Cobro venta #867
+1597,3,2023-10-05,Egreso,46992.32,Pago compra #465
+1598,5,2023-10-06,Ingreso,1508.55,Cobro venta #784
+1599,3,2023-10-06,Egreso,7955.63,Pago compra #304
+1600,2,2023-10-08,Egreso,44429.69,Pago compra #283
+1601,1,2023-10-08,Egreso,8678.64,Pago compra #417
+1602,4,2023-10-10,Ingreso,130.6,Cobro venta #874
+1603,1,2023-10-10,Ingreso,46102.3,Cobro venta #278
+1604,1,2023-10-11,Egreso,5375.31,Pago compra #332
+1605,3,2023-10-13,Egreso,9158.67,Pago compra #428
+1606,5,2023-10-14,Ingreso,1492.48,Cobro venta #80
+1607,5,2023-10-16,Ingreso,981.9,Cobro venta #148
+1608,5,2023-10-17,Egreso,1152.59,Pago compra #189
+1609,2,2023-10-17,Ingreso,29758.02,Cobro venta #263
+1610,1,2023-10-19,Ingreso,7029.55,Préstamo recibido
+1611,1,2023-10-19,Ingreso,41897.79,Cobro venta #838
+1612,2,2023-10-20,Egreso,8307.16,Mantenimiento
+1613,4,2023-10-21,Ingreso,33828.53,Inversión
+1614,3,2023-10-22,Ingreso,130.6,Cobro venta #130
+1615,4,2023-10-22,Egreso,17976.66,Pago compra #45
+1616,5,2023-10-23,Ingreso,3035.23,Cobro venta #758
+1617,1,2023-10-23,Egreso,7009.54,Pago compra #478
+1618,1,2023-10-24,Egreso,12892.94,Pago compra #142
+1619,4,2023-10-24,Ingreso,8492.7,Cobro venta #48
+1620,4,2023-10-25,Egreso,6195.5,Pago compra #447
+1621,2,2023-10-27,Ingreso,8238.96,Cobro venta #76
+1622,3,2023-10-30,Egreso,76282.21,Pago compra #316
+1623,4,2023-10-31,Egreso,6512.3,Pago compra #4
+1624,1,2023-11-01,Ingreso,18307.17,Cobro venta #518
+1625,1,2023-11-04,Egreso,26591.26,Pago compra #284
+1626,1,2023-11-04,Ingreso,13965.93,Cobro venta #517
+1627,4,2023-11-05,Egreso,18305.65,Impuestos
+1628,3,2023-11-07,Egreso,16396.34,Pago compra #43
+1629,3,2023-11-08,Ingreso,25513.4,Cobro venta #320
+1630,2,2023-11-09,Egreso,5270.62,Pago compra #159
+1631,5,2023-11-09,Egreso,31660.13,Pago compra #58
+1632,4,2023-11-09,Ingreso,58094.32,Cobro venta #547
+1633,4,2023-11-10,Ingreso,454.83,Cobro venta #569
+1634,3,2023-11-10,Egreso,14573.24,Pago compra #5
+1635,4,2023-11-10,Egreso,37685.14,Pago compra #69
+1636,1,2023-11-10,Ingreso,4138.2,Cobro venta #943
+1637,1,2023-11-13,Ingreso,3984.96,Cobro venta #898
+1638,4,2023-11-13,Ingreso,545.02,Cobro venta #786
+1639,5,2023-11-14,Ingreso,182.33,Cobro venta #493
+1640,1,2023-11-15,Egreso,26868.36,Pago compra #119
+1641,3,2023-11-16,Ingreso,12140.92,Cobro venta #11
+1642,4,2023-11-17,Ingreso,746.24,Cobro venta #735
+1643,4,2023-11-18,Ingreso,27285.68,Cobro venta #405
+1644,3,2023-11-19,Ingreso,27795.84,Cobro venta #882
+1645,4,2023-11-20,Egreso,11546.35,Pago compra #76
+1646,3,2023-11-20,Egreso,10357.22,Mantenimiento
+1647,3,2023-11-21,Ingreso,176163.7,Cobro venta #304
+1648,1,2023-11-21,Egreso,19941.52,Pago nómina
+1649,1,2023-11-24,Egreso,29592.48,Pago compra #112
+1650,4,2023-11-25,Ingreso,1389.26,Cobro venta #187
+1651,4,2023-11-29,Egreso,16044.71,Pago compra #187
+1652,5,2023-11-30,Egreso,28248.88,Mantenimiento
+1653,5,2023-12-01,Ingreso,3197.74,Cobro venta #417
+1654,3,2023-12-03,Egreso,11707.77,Pago nómina
+1655,1,2023-12-03,Ingreso,3393.52,Cobro venta #336
+1656,4,2023-12-05,Egreso,52336.69,Pago compra #200
+1657,5,2023-12-07,Ingreso,12587.5,Cobro venta #667
+1658,4,2023-12-07,Ingreso,2691.7,Cobro venta #422
+1659,2,2023-12-07,Egreso,4674.88,Impuestos
+1660,3,2023-12-08,Ingreso,2611.84,Cobro venta #465
+1661,4,2023-12-13,Ingreso,493.24,Cobro venta #4
+1662,5,2023-12-15,Ingreso,6819.24,Cobro venta #847
+1663,5,2023-12-17,Ingreso,3486.84,Cobro venta #636
+1664,2,2023-12-17,Ingreso,639754.86,Cobro venta #622
+1665,1,2023-12-18,Ingreso,648.41,Cobro venta #126
+1666,1,2023-12-20,Ingreso,2950.05,Cobro venta #377
+1667,4,2023-12-20,Ingreso,4093.47,Cobro venta #797
+1668,2,2023-12-21,Ingreso,888017.94,Cobro venta #926
+1669,2,2023-12-23,Ingreso,4455.41,Cobro venta #281
+1670,1,2023-12-24,Egreso,7315.62,Pago compra #281
+1671,2,2023-12-25,Ingreso,4959.67,Cobro venta #607
+1672,4,2023-12-26,Ingreso,6779.75,Cobro venta #712
+1673,4,2023-12-26,Egreso,6582.98,Alquiler
+1674,1,2023-12-27,Ingreso,22110.0,Cobro venta #558
+1675,5,2023-12-27,Ingreso,29866.23,Cobro venta #748
+1676,3,2023-12-27,Ingreso,2059.74,Cobro venta #738
+1677,5,2023-12-27,Ingreso,22732.56,Cobro venta #973
+1678,3,2023-12-28,Ingreso,2814.05,Cobro venta #474
+1679,3,2023-12-28,Egreso,38429.69,Pago compra #267
+1680,2,2023-12-29,Ingreso,1105.88,Cobro venta #53
+1681,2,2023-12-29,Ingreso,38516.96,Préstamo recibido
+1682,1,2023-12-29,Egreso,8998.96,Pago compra #443
+1683,3,2023-12-30,Ingreso,356.31,Cobro venta #384
+1684,1,2023-12-30,Egreso,12133.06,Pago nómina
+1685,2,2023-12-31,Egreso,8392.38,Pago compra #158
+1686,4,2023-12-31,Egreso,7179.71,Pago compra #184
+1687,5,2023-12-31,Egreso,10852.62,Pago compra #7
+1688,5,2023-12-31,Ingreso,391.8,Cobro venta #498
+1689,5,2023-12-31,Ingreso,9908.15,Cobro venta #259
+1690,5,2023-12-31,Egreso,7090.1,Pago compra #94
+1691,4,2023-12-31,Ingreso,1819.32,Cobro venta #180
+1692,4,2023-12-31,Egreso,13530.48,Pago compra #238
+1693,3,2023-12-31,Ingreso,28645.74,Cobro venta #571
+1694,3,2023-12-31,Ingreso,301.71,Cobro venta #978
+1695,5,2023-12-31,Ingreso,5051.68,Cobro venta #497
+1696,1,2023-12-31,Egreso,19269.43,Pago compra #152
+1697,1,2023-12-31,Egreso,9172.54,Pago compra #186
+1698,4,2023-12-31,Egreso,2582.57,Pago compra #290
+1699,5,2023-12-31,Ingreso,1389.26,Cobro venta #600
+1700,2,2023-12-31,Egreso,35487.06,Pago compra #122

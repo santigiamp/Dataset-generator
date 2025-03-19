@@ -1,0 +1,6 @@
+ID_Cuenta_Bancaria,Banco,Tipo_Cuenta,Saldo_Inicial,Moneda
+1,Banco Nacional,Corriente,370761.12,MXN
+2,Banco Nacional,Ahorro,124070.91,MXN
+3,Banco Regional,Ahorro,35100.73,MXN
+4,Banco Industrial,Ahorro,15105.59,MXN
+5,Banco Metropolitano,Ahorro,17358.12,MXN
